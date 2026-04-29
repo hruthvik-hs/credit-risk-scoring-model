@@ -1,0 +1,2401 @@
+Age,Annual_Income_LPA,Loan_Amount_LPA,Loan_Term_Months,CIBIL_Score,Employment_Years,Existing_Loans,Education,Employment_Type,Property_Area,Gender,Dependents,Default,Loan_to_Income_Ratio,CIBIL_Band,LTI_Band
+60,13.42,24.34,12,631,8,1,Post-Graduate,Salaried,Semi-Urban,Female,2,0,1.814,"580-670
+(Good)",1.5-2x
+50,3.53,5.3,48,811,7,3,Under-Graduate,Self-Employed,Urban,Female,1,0,1.501,"800+
+(Exceptional)",1.5-2x
+36,8.47,10.26,36,731,15,0,Post-Graduate,Business,Semi-Urban,Male,2,0,1.211,"670-740
+(Very Good)",1-1.5x
+29,2.1,6.65,48,673,13,1,Graduate,Salaried,Semi-Urban,Male,0,0,3.167,"670-740
+(Very Good)",>3x
+42,20.92,38.76,24,671,12,1,Graduate,Self-Employed,Urban,Male,1,0,1.853,"670-740
+(Very Good)",1.5-2x
+60,5.0,11.45,36,609,12,1,Graduate,Self-Employed,Urban,Female,1,0,2.29,"580-670
+(Good)",2-2.5x
+40,6.35,14.12,12,677,4,0,Post-Graduate,Salaried,Semi-Urban,Male,2,0,2.224,"670-740
+(Very Good)",2-2.5x
+44,6.68,16.84,60,698,15,0,Graduate,Freelance,Urban,Female,0,0,2.521,"670-740
+(Very Good)",2.5-3x
+32,8.64,30.5,48,635,10,0,Graduate,Business,Rural,Male,1,0,3.53,"580-670
+(Good)",>3x
+32,2.41,9.48,60,716,4,1,Under-Graduate,Salaried,Urban,Female,0,0,3.934,"670-740
+(Very Good)",>3x
+45,5.98,11.52,24,757,12,0,Post-Graduate,Salaried,Semi-Urban,Female,0,0,1.926,"740-800
+(Excellent)",1.5-2x
+57,4.04,13.72,36,702,10,1,Post-Graduate,Salaried,Rural,Male,3,0,3.396,"670-740
+(Very Good)",>3x
+61,2.18,6.92,48,773,18,0,Diploma,Salaried,Rural,Male,0,0,3.174,"740-800
+(Excellent)",>3x
+45,10.85,27.2,36,655,2,2,Graduate,Self-Employed,Urban,Male,0,0,2.507,"580-670
+(Good)",2.5-3x
+24,4.86,18.69,48,800,14,3,Post-Graduate,Salaried,Urban,Male,1,1,3.846,"740-800
+(Excellent)",>3x
+43,6.94,8.34,60,729,6,1,Under-Graduate,Business,Semi-Urban,Male,2,0,1.202,"670-740
+(Very Good)",1-1.5x
+23,6.68,5.89,48,843,6,0,Post-Graduate,Self-Employed,Urban,Male,1,0,0.882,"800+
+(Exceptional)",<1x
+45,4.91,17.13,48,900,5,0,Graduate,Self-Employed,Urban,Male,2,0,3.489,"800+
+(Exceptional)",>3x
+51,19.62,39.97,24,682,2,0,Graduate,Self-Employed,Rural,Female,2,0,2.037,"670-740
+(Very Good)",2-2.5x
+59,5.83,20.2,24,685,12,0,Under-Graduate,Salaried,Urban,Male,0,0,3.465,"670-740
+(Very Good)",>3x
+23,2.36,8.56,60,700,6,1,Post-Graduate,Salaried,Urban,Male,1,0,3.627,"670-740
+(Very Good)",>3x
+42,4.72,3.39,12,767,4,1,Under-Graduate,Self-Employed,Urban,Female,1,0,0.718,"740-800
+(Excellent)",<1x
+54,8.1,29.1,48,826,17,3,Post-Graduate,Salaried,Semi-Urban,Male,2,0,3.593,"800+
+(Exceptional)",>3x
+33,8.26,17.09,48,667,7,0,Post-Graduate,Salaried,Semi-Urban,Female,0,0,2.069,"580-670
+(Good)",2-2.5x
+43,3.12,7.13,36,750,16,1,Under-Graduate,Business,Urban,Female,0,0,2.285,"740-800
+(Excellent)",2-2.5x
+46,10.48,28.22,60,709,19,1,Post-Graduate,Self-Employed,Urban,Male,2,0,2.693,"670-740
+(Very Good)",2.5-3x
+48,2.08,7.78,36,769,0,1,Graduate,Salaried,Urban,Male,1,0,3.74,"740-800
+(Excellent)",>3x
+49,11.92,6.76,36,840,13,0,Post-Graduate,Self-Employed,Semi-Urban,Female,1,0,0.567,"800+
+(Exceptional)",<1x
+37,2.72,5.9,12,700,16,1,Under-Graduate,Business,Urban,Male,1,0,2.169,"670-740
+(Very Good)",2-2.5x
+36,5.24,15.23,36,586,9,1,Graduate,Salaried,Rural,Male,0,0,2.906,"580-670
+(Good)",2.5-3x
+24,11.36,34.41,24,779,11,1,Graduate,Salaried,Urban,Male,1,0,3.029,"740-800
+(Excellent)",>3x
+58,6.45,18.86,36,653,15,3,Graduate,Freelance,Rural,Male,1,0,2.924,"580-670
+(Good)",2.5-3x
+28,9.79,9.5,48,708,13,0,Diploma,Salaried,Urban,Male,3,0,0.97,"670-740
+(Very Good)",<1x
+42,8.7,13.47,60,782,15,0,Graduate,Salaried,Semi-Urban,Male,0,0,1.548,"740-800
+(Excellent)",1.5-2x
+30,12.98,22.79,24,743,7,1,Post-Graduate,Salaried,Urban,Male,2,0,1.756,"740-800
+(Excellent)",1.5-2x
+60,11.35,37.63,36,711,9,1,Graduate,Business,Urban,Female,1,0,3.315,"670-740
+(Very Good)",>3x
+39,4.57,6.74,60,673,16,0,Graduate,Salaried,Rural,Male,0,0,1.475,"670-740
+(Very Good)",1-1.5x
+25,8.77,10.85,12,488,17,2,Post-Graduate,Salaried,Rural,Male,2,0,1.237,"300-500
+(Poor)",1-1.5x
+46,2.4,9.24,12,775,19,3,Graduate,Salaried,Urban,Male,0,0,3.85,"740-800
+(Excellent)",>3x
+35,5.8,3.08,24,699,15,3,Post-Graduate,Freelance,Semi-Urban,Male,3,0,0.531,"670-740
+(Very Good)",<1x
+30,9.8,39.13,36,841,16,0,Under-Graduate,Salaried,Semi-Urban,Male,2,0,3.993,"800+
+(Exceptional)",>3x
+47,6.5,18.65,24,751,15,2,Under-Graduate,Self-Employed,Rural,Male,0,1,2.869,"740-800
+(Excellent)",2.5-3x
+23,7.84,26.65,60,676,18,1,Graduate,Business,Urban,Male,0,0,3.399,"670-740
+(Very Good)",>3x
+41,5.28,8.08,36,805,7,1,Under-Graduate,Salaried,Semi-Urban,Female,1,0,1.53,"800+
+(Exceptional)",1.5-2x
+49,11.81,6.5,36,812,5,1,Post-Graduate,Freelance,Semi-Urban,Male,1,0,0.55,"800+
+(Exceptional)",<1x
+28,5.72,17.63,24,702,5,2,Under-Graduate,Freelance,Urban,Male,1,0,3.082,"670-740
+(Very Good)",>3x
+29,4.54,15.52,36,815,8,1,Post-Graduate,Business,Rural,Male,0,0,3.419,"800+
+(Exceptional)",>3x
+56,10.21,31.57,48,675,3,0,Post-Graduate,Salaried,Urban,Male,1,0,3.092,"670-740
+(Very Good)",>3x
+35,2.58,2.58,48,732,11,1,Diploma,Self-Employed,Urban,Female,0,0,1.0,"670-740
+(Very Good)",<1x
+38,8.1,25.41,48,765,11,1,Under-Graduate,Business,Semi-Urban,Female,2,0,3.137,"740-800
+(Excellent)",>3x
+57,3.21,10.24,36,782,16,0,Graduate,Freelance,Semi-Urban,Male,2,0,3.19,"740-800
+(Excellent)",>3x
+61,12.92,36.24,60,769,14,2,Graduate,Salaried,Urban,Male,1,0,2.805,"740-800
+(Excellent)",2.5-3x
+25,5.13,16.32,48,693,8,1,Graduate,Business,Urban,Male,2,0,3.181,"670-740
+(Very Good)",>3x
+23,6.51,22.53,48,807,6,1,Graduate,Salaried,Rural,Female,0,0,3.461,"800+
+(Exceptional)",>3x
+27,7.69,20.36,12,710,9,0,Graduate,Salaried,Urban,Male,0,0,2.648,"670-740
+(Very Good)",2.5-3x
+25,1.89,1.53,12,674,15,1,Graduate,Salaried,Semi-Urban,Female,1,0,0.81,"670-740
+(Very Good)",<1x
+50,4.06,8.96,24,675,11,0,Under-Graduate,Business,Semi-Urban,Female,1,0,2.207,"670-740
+(Very Good)",2-2.5x
+39,11.22,8.66,48,875,6,0,Graduate,Salaried,Urban,Female,1,0,0.772,"800+
+(Exceptional)",<1x
+47,10.1,19.46,36,660,17,1,Post-Graduate,Salaried,Rural,Male,2,0,1.927,"580-670
+(Good)",1.5-2x
+55,7.11,13.69,36,823,14,1,Graduate,Freelance,Semi-Urban,Male,3,0,1.925,"800+
+(Exceptional)",1.5-2x
+31,2.67,1.95,48,629,5,1,Graduate,Salaried,Semi-Urban,Male,1,0,0.73,"580-670
+(Good)",<1x
+57,8.53,14.68,48,759,11,0,Graduate,Self-Employed,Semi-Urban,Male,2,0,1.721,"740-800
+(Excellent)",1.5-2x
+35,9.21,8.18,60,743,10,1,Graduate,Salaried,Semi-Urban,Male,0,0,0.888,"740-800
+(Excellent)",<1x
+52,6.17,20.54,36,849,19,0,Under-Graduate,Salaried,Semi-Urban,Female,0,0,3.329,"800+
+(Exceptional)",>3x
+36,12.5,47.71,48,667,2,3,Under-Graduate,Self-Employed,Rural,Male,2,0,3.817,"580-670
+(Good)",>3x
+29,3.98,3.0,24,645,1,1,Graduate,Freelance,Urban,Male,1,0,0.754,"580-670
+(Good)",<1x
+35,4.42,16.99,24,710,5,1,Post-Graduate,Salaried,Urban,Male,1,0,3.844,"670-740
+(Very Good)",>3x
+44,1.35,3.14,24,853,4,0,Post-Graduate,Business,Urban,Female,0,0,2.326,"800+
+(Exceptional)",2-2.5x
+61,10.42,16.14,36,649,17,0,Under-Graduate,Salaried,Urban,Female,1,0,1.549,"580-670
+(Good)",1.5-2x
+42,7.24,5.57,36,512,15,3,Under-Graduate,Salaried,Urban,Male,0,0,0.769,"500-580
+(Fair)",<1x
+37,2.19,4.93,48,724,7,0,Post-Graduate,Salaried,Rural,Male,1,0,2.251,"670-740
+(Very Good)",2-2.5x
+39,2.09,6.86,24,795,19,1,Post-Graduate,Salaried,Semi-Urban,Male,0,0,3.282,"740-800
+(Excellent)",>3x
+45,3.55,10.56,48,638,10,1,Under-Graduate,Salaried,Semi-Urban,Male,0,0,2.975,"580-670
+(Good)",2.5-3x
+47,9.66,6.53,36,787,9,0,Graduate,Salaried,Semi-Urban,Male,0,0,0.676,"740-800
+(Excellent)",<1x
+46,5.01,3.78,24,637,11,2,Graduate,Salaried,Rural,Female,0,0,0.754,"580-670
+(Good)",<1x
+50,3.7,7.07,36,708,5,1,Diploma,Salaried,Semi-Urban,Male,2,0,1.911,"670-740
+(Very Good)",1.5-2x
+36,3.28,5.03,24,780,19,0,Under-Graduate,Salaried,Rural,Male,0,0,1.534,"740-800
+(Excellent)",1.5-2x
+22,3.19,4.19,36,625,4,0,Post-Graduate,Self-Employed,Urban,Male,0,0,1.313,"580-670
+(Good)",1-1.5x
+46,1.88,2.79,36,734,8,0,Post-Graduate,Business,Rural,Female,1,0,1.484,"670-740
+(Very Good)",1-1.5x
+28,2.91,9.64,24,817,15,2,Graduate,Self-Employed,Semi-Urban,Male,1,0,3.313,"800+
+(Exceptional)",>3x
+30,3.16,11.86,24,757,13,1,Post-Graduate,Salaried,Urban,Male,0,0,3.753,"740-800
+(Excellent)",>3x
+45,9.04,17.34,36,662,7,0,Post-Graduate,Freelance,Semi-Urban,Female,0,0,1.918,"580-670
+(Good)",1.5-2x
+22,5.43,19.94,60,841,19,0,Graduate,Business,Semi-Urban,Male,3,0,3.672,"800+
+(Exceptional)",>3x
+29,3.66,5.95,36,772,18,1,Under-Graduate,Salaried,Urban,Female,2,0,1.626,"740-800
+(Excellent)",1.5-2x
+45,23.99,52.0,48,571,13,1,Under-Graduate,Salaried,Semi-Urban,Male,1,1,2.168,"500-580
+(Fair)",2-2.5x
+32,4.03,5.2,48,789,6,1,Graduate,Self-Employed,Urban,Female,1,0,1.29,"740-800
+(Excellent)",1-1.5x
+38,12.09,33.15,60,674,4,0,Post-Graduate,Self-Employed,Urban,Male,0,0,2.742,"670-740
+(Very Good)",2.5-3x
+29,15.87,62.31,48,735,17,0,Graduate,Business,Rural,Male,0,0,3.926,"670-740
+(Very Good)",>3x
+56,2.34,6.11,36,800,1,1,Post-Graduate,Self-Employed,Semi-Urban,Female,1,0,2.611,"740-800
+(Excellent)",2.5-3x
+56,6.27,10.99,48,676,10,3,Graduate,Self-Employed,Rural,Male,2,0,1.753,"670-740
+(Very Good)",1.5-2x
+54,4.4,12.18,48,588,7,0,Post-Graduate,Freelance,Semi-Urban,Male,0,0,2.768,"580-670
+(Good)",2.5-3x
+26,4.19,3.9,36,840,0,1,Under-Graduate,Salaried,Urban,Male,2,0,0.931,"800+
+(Exceptional)",<1x
+60,8.37,30.22,36,813,11,1,Graduate,Salaried,Semi-Urban,Male,0,0,3.611,"800+
+(Exceptional)",>3x
+49,4.13,9.34,12,713,1,1,Diploma,Business,Semi-Urban,Male,0,0,2.262,"670-740
+(Very Good)",2-2.5x
+28,4.46,9.24,48,788,17,0,Diploma,Salaried,Rural,Female,0,0,2.072,"740-800
+(Excellent)",2-2.5x
+30,5.42,13.82,48,690,6,2,Graduate,Business,Urban,Female,0,0,2.55,"670-740
+(Very Good)",2.5-3x
+29,4.8,12.9,24,727,16,1,Graduate,Freelance,Rural,Female,3,0,2.688,"670-740
+(Very Good)",2.5-3x
+33,2.97,2.23,36,708,13,1,Diploma,Self-Employed,Rural,Male,1,0,0.751,"670-740
+(Very Good)",<1x
+55,9.67,27.94,36,693,6,0,Diploma,Self-Employed,Semi-Urban,Male,0,0,2.889,"670-740
+(Very Good)",2.5-3x
+54,11.26,15.16,24,748,2,0,Graduate,Salaried,Rural,Female,3,0,1.346,"740-800
+(Excellent)",1-1.5x
+44,7.37,22.1,60,623,5,0,Graduate,Salaried,Urban,Male,2,0,2.999,"580-670
+(Good)",2.5-3x
+45,4.79,16.18,24,699,19,1,Graduate,Salaried,Rural,Male,2,0,3.378,"670-740
+(Very Good)",>3x
+58,3.93,13.02,12,745,1,0,Diploma,Self-Employed,Semi-Urban,Male,3,0,3.313,"740-800
+(Excellent)",>3x
+56,3.93,9.56,36,867,16,1,Graduate,Business,Urban,Male,0,0,2.433,"800+
+(Exceptional)",2-2.5x
+61,24.68,57.27,48,626,11,0,Post-Graduate,Self-Employed,Rural,Male,2,0,2.321,"580-670
+(Good)",2-2.5x
+43,10.53,10.53,12,761,11,1,Under-Graduate,Salaried,Semi-Urban,Male,2,0,1.0,"740-800
+(Excellent)",<1x
+48,3.62,11.63,48,770,16,1,Graduate,Salaried,Semi-Urban,Female,2,0,3.213,"740-800
+(Excellent)",>3x
+56,6.62,9.6,36,569,9,0,Post-Graduate,Business,Semi-Urban,Male,2,0,1.45,"500-580
+(Fair)",1-1.5x
+22,4.83,10.81,24,752,2,0,Graduate,Salaried,Urban,Male,0,0,2.238,"740-800
+(Excellent)",2-2.5x
+56,8.52,12.74,24,790,19,0,Under-Graduate,Salaried,Semi-Urban,Male,2,0,1.495,"740-800
+(Excellent)",1-1.5x
+58,8.31,8.05,36,767,17,1,Graduate,Business,Rural,Male,0,0,0.969,"740-800
+(Excellent)",<1x
+35,11.5,31.09,24,713,12,1,Post-Graduate,Self-Employed,Urban,Male,0,0,2.703,"670-740
+(Very Good)",2.5-3x
+24,3.6,2.48,60,746,11,0,Post-Graduate,Salaried,Urban,Male,0,0,0.689,"740-800
+(Excellent)",<1x
+22,6.39,19.94,48,733,16,1,Graduate,Business,Urban,Female,3,0,3.121,"670-740
+(Very Good)",>3x
+26,2.1,3.38,60,584,3,0,Graduate,Salaried,Urban,Male,0,0,1.61,"580-670
+(Good)",1.5-2x
+47,2.82,1.41,24,735,9,0,Graduate,Freelance,Semi-Urban,Male,1,0,0.5,"670-740
+(Very Good)",<1x
+35,10.2,23.35,60,690,10,0,Graduate,Salaried,Semi-Urban,Male,1,0,2.289,"670-740
+(Very Good)",2-2.5x
+60,3.39,2.25,36,663,5,2,Under-Graduate,Salaried,Rural,Female,3,0,0.664,"580-670
+(Good)",<1x
+48,3.62,5.31,36,900,5,0,Under-Graduate,Business,Semi-Urban,Female,0,0,1.467,"800+
+(Exceptional)",1-1.5x
+30,5.97,17.76,12,820,8,0,Post-Graduate,Salaried,Urban,Female,2,0,2.975,"800+
+(Exceptional)",2.5-3x
+36,9.1,6.55,12,627,14,0,Post-Graduate,Self-Employed,Rural,Male,2,0,0.72,"580-670
+(Good)",<1x
+36,3.17,10.9,48,747,1,0,Post-Graduate,Business,Semi-Urban,Female,1,0,3.438,"740-800
+(Excellent)",>3x
+47,0.74,0.38,36,836,3,1,Under-Graduate,Business,Semi-Urban,Male,1,0,0.514,"800+
+(Exceptional)",<1x
+34,3.56,4.86,24,600,4,0,Graduate,Freelance,Semi-Urban,Male,2,0,1.365,"580-670
+(Good)",1-1.5x
+53,12.37,38.26,36,726,16,0,Graduate,Salaried,Rural,Female,3,0,3.093,"670-740
+(Very Good)",>3x
+60,7.37,11.84,24,729,7,1,Graduate,Self-Employed,Semi-Urban,Female,2,0,1.607,"670-740
+(Very Good)",1.5-2x
+53,13.28,11.38,36,618,7,0,Post-Graduate,Salaried,Urban,Male,0,0,0.857,"580-670
+(Good)",<1x
+25,3.04,5.35,36,750,11,1,Graduate,Salaried,Semi-Urban,Male,2,0,1.76,"740-800
+(Excellent)",1.5-2x
+51,2.24,3.24,48,809,7,1,Graduate,Business,Urban,Male,1,0,1.446,"800+
+(Exceptional)",1-1.5x
+58,7.92,27.32,48,840,18,0,Graduate,Salaried,Urban,Male,1,0,3.449,"800+
+(Exceptional)",>3x
+44,6.93,11.07,36,700,2,1,Under-Graduate,Self-Employed,Urban,Male,2,0,1.597,"670-740
+(Very Good)",1.5-2x
+60,7.21,23.51,36,900,17,0,Graduate,Salaried,Urban,Female,0,0,3.261,"800+
+(Exceptional)",>3x
+36,10.5,38.03,36,555,18,1,Graduate,Self-Employed,Urban,Female,2,0,3.622,"500-580
+(Fair)",>3x
+50,7.73,15.6,48,748,18,1,Graduate,Freelance,Urban,Female,1,0,2.018,"740-800
+(Excellent)",2-2.5x
+57,7.65,28.19,36,607,14,0,Graduate,Salaried,Semi-Urban,Female,2,0,3.685,"580-670
+(Good)",>3x
+34,9.21,16.77,24,727,5,1,Post-Graduate,Self-Employed,Rural,Male,0,0,1.821,"670-740
+(Very Good)",1.5-2x
+53,8.11,31.42,12,678,15,2,Graduate,Business,Rural,Female,1,0,3.874,"670-740
+(Very Good)",>3x
+28,10.04,8.16,36,760,7,3,Graduate,Salaried,Urban,Male,2,0,0.813,"740-800
+(Excellent)",<1x
+43,10.99,31.92,36,709,15,1,Post-Graduate,Salaried,Semi-Urban,Male,0,0,2.904,"670-740
+(Very Good)",2.5-3x
+49,15.04,33.51,48,653,17,1,Graduate,Self-Employed,Rural,Male,0,0,2.228,"580-670
+(Good)",2-2.5x
+23,4.06,7.54,24,659,19,0,Graduate,Salaried,Urban,Male,3,0,1.857,"580-670
+(Good)",1.5-2x
+27,8.01,21.74,36,874,15,0,Under-Graduate,Salaried,Semi-Urban,Female,0,0,2.714,"800+
+(Exceptional)",2.5-3x
+49,4.8,14.22,48,755,10,1,Graduate,Business,Semi-Urban,Female,3,0,2.963,"740-800
+(Excellent)",2.5-3x
+49,3.64,1.88,48,583,6,0,Graduate,Salaried,Urban,Male,0,0,0.516,"580-670
+(Good)",<1x
+41,3.97,4.3,36,764,16,2,Graduate,Freelance,Rural,Female,1,0,1.083,"740-800
+(Excellent)",1-1.5x
+51,8.07,24.17,36,704,16,0,Post-Graduate,Business,Rural,Male,2,0,2.995,"670-740
+(Very Good)",2.5-3x
+32,7.71,21.84,36,720,11,0,Post-Graduate,Self-Employed,Urban,Female,2,0,2.833,"670-740
+(Very Good)",2.5-3x
+49,7.63,29.61,60,785,12,0,Post-Graduate,Salaried,Urban,Male,1,0,3.881,"740-800
+(Excellent)",>3x
+46,5.24,16.58,24,814,9,2,Under-Graduate,Salaried,Urban,Male,1,0,3.164,"800+
+(Exceptional)",>3x
+60,6.01,23.0,60,651,6,1,Graduate,Salaried,Urban,Male,2,0,3.827,"580-670
+(Good)",>3x
+54,9.8,29.0,48,717,13,1,Graduate,Business,Semi-Urban,Male,0,0,2.959,"670-740
+(Very Good)",2.5-3x
+22,2.45,3.78,36,676,0,0,Under-Graduate,Salaried,Semi-Urban,Male,1,0,1.543,"670-740
+(Very Good)",1.5-2x
+48,6.09,5.29,12,767,16,2,Diploma,Salaried,Urban,Female,0,0,0.869,"740-800
+(Excellent)",<1x
+34,6.33,20.49,36,701,3,0,Graduate,Salaried,Rural,Male,1,0,3.237,"670-740
+(Very Good)",>3x
+24,9.43,25.98,36,722,4,2,Post-Graduate,Salaried,Urban,Female,0,1,2.755,"670-740
+(Very Good)",2.5-3x
+60,2.67,1.79,24,698,19,1,Graduate,Salaried,Urban,Female,0,0,0.67,"670-740
+(Very Good)",<1x
+27,14.71,25.89,48,711,6,0,Graduate,Self-Employed,Urban,Male,1,0,1.76,"670-740
+(Very Good)",1.5-2x
+29,6.82,26.25,60,856,9,1,Graduate,Salaried,Semi-Urban,Male,0,1,3.849,"800+
+(Exceptional)",>3x
+48,7.04,15.85,36,900,16,1,Graduate,Salaried,Urban,Female,0,0,2.251,"800+
+(Exceptional)",2-2.5x
+30,4.72,9.51,48,750,6,0,Under-Graduate,Salaried,Urban,Male,2,0,2.015,"740-800
+(Excellent)",2-2.5x
+58,8.29,17.43,12,712,0,2,Post-Graduate,Self-Employed,Urban,Female,1,0,2.103,"670-740
+(Very Good)",2-2.5x
+54,6.18,7.61,36,592,6,1,Graduate,Self-Employed,Rural,Male,2,0,1.231,"580-670
+(Good)",1-1.5x
+45,12.39,22.18,24,659,10,0,Graduate,Salaried,Rural,Male,2,0,1.79,"580-670
+(Good)",1.5-2x
+36,2.53,4.54,36,709,8,0,Under-Graduate,Self-Employed,Urban,Female,0,1,1.794,"670-740
+(Very Good)",1.5-2x
+53,6.67,4.56,60,662,11,1,Graduate,Salaried,Urban,Male,1,0,0.684,"580-670
+(Good)",<1x
+53,7.67,24.44,48,671,2,1,Post-Graduate,Freelance,Semi-Urban,Male,0,1,3.186,"670-740
+(Very Good)",>3x
+45,5.37,10.51,12,846,3,1,Graduate,Salaried,Semi-Urban,Male,2,0,1.957,"800+
+(Exceptional)",1.5-2x
+33,4.71,15.91,36,722,3,1,Post-Graduate,Self-Employed,Urban,Female,3,1,3.378,"670-740
+(Very Good)",>3x
+60,4.83,16.79,36,729,12,1,Graduate,Business,Rural,Female,1,0,3.476,"670-740
+(Very Good)",>3x
+23,6.66,8.27,36,666,18,3,Graduate,Business,Semi-Urban,Male,2,0,1.242,"580-670
+(Good)",1-1.5x
+24,2.03,5.69,48,814,9,1,Graduate,Salaried,Semi-Urban,Male,0,0,2.803,"800+
+(Exceptional)",2.5-3x
+58,10.71,23.06,48,702,4,2,Graduate,Salaried,Semi-Urban,Male,1,0,2.153,"670-740
+(Very Good)",2-2.5x
+38,4.5,16.11,36,678,6,0,Graduate,Self-Employed,Rural,Male,2,0,3.58,"670-740
+(Very Good)",>3x
+23,6.48,8.13,36,593,15,0,Post-Graduate,Salaried,Semi-Urban,Male,0,0,1.255,"580-670
+(Good)",1-1.5x
+23,7.48,21.49,24,715,0,0,Graduate,Business,Urban,Female,0,0,2.873,"670-740
+(Very Good)",2.5-3x
+49,4.38,11.51,24,675,11,1,Graduate,Self-Employed,Urban,Male,1,0,2.628,"670-740
+(Very Good)",2.5-3x
+44,5.55,8.51,36,854,1,2,Post-Graduate,Self-Employed,Semi-Urban,Male,2,0,1.533,"800+
+(Exceptional)",1.5-2x
+58,1.77,1.73,36,867,6,0,Post-Graduate,Salaried,Urban,Female,1,0,0.977,"800+
+(Exceptional)",<1x
+53,9.31,25.89,48,621,10,0,Diploma,Self-Employed,Semi-Urban,Male,3,1,2.781,"580-670
+(Good)",2.5-3x
+54,11.47,35.39,48,630,12,2,Post-Graduate,Self-Employed,Rural,Male,0,0,3.085,"580-670
+(Good)",>3x
+22,2.16,3.47,12,697,1,0,Post-Graduate,Business,Semi-Urban,Male,1,0,1.606,"670-740
+(Very Good)",1.5-2x
+40,4.7,12.96,36,654,6,1,Post-Graduate,Salaried,Rural,Male,2,0,2.757,"580-670
+(Good)",2.5-3x
+23,2.87,5.4,24,737,14,1,Diploma,Salaried,Urban,Female,0,0,1.882,"670-740
+(Very Good)",1.5-2x
+47,5.39,16.15,24,693,10,2,Under-Graduate,Salaried,Rural,Male,2,1,2.996,"670-740
+(Very Good)",2.5-3x
+53,8.85,10.6,48,742,1,0,Graduate,Salaried,Semi-Urban,Male,0,0,1.198,"740-800
+(Excellent)",1-1.5x
+27,10.85,39.23,12,801,6,0,Graduate,Self-Employed,Urban,Female,0,0,3.616,"800+
+(Exceptional)",>3x
+53,11.76,17.71,36,634,3,1,Graduate,Business,Semi-Urban,Female,0,0,1.506,"580-670
+(Good)",1.5-2x
+25,13.17,23.54,24,799,10,3,Post-Graduate,Salaried,Urban,Male,3,0,1.787,"740-800
+(Excellent)",1.5-2x
+32,5.25,3.69,48,661,1,1,Under-Graduate,Business,Semi-Urban,Male,1,0,0.703,"580-670
+(Good)",<1x
+38,3.01,2.68,36,891,15,0,Post-Graduate,Salaried,Semi-Urban,Female,2,0,0.89,"800+
+(Exceptional)",<1x
+59,5.6,12.91,24,849,6,1,Graduate,Salaried,Urban,Male,0,0,2.305,"800+
+(Exceptional)",2-2.5x
+45,8.77,12.6,36,710,12,3,Under-Graduate,Salaried,Semi-Urban,Female,1,1,1.437,"670-740
+(Very Good)",1-1.5x
+26,2.87,9.83,48,642,4,2,Under-Graduate,Salaried,Semi-Urban,Male,1,0,3.425,"580-670
+(Good)",>3x
+55,16.25,8.96,60,627,16,3,Graduate,Business,Urban,Female,3,1,0.551,"580-670
+(Good)",<1x
+27,10.28,18.78,24,789,11,0,Post-Graduate,Salaried,Urban,Male,2,0,1.827,"740-800
+(Excellent)",1.5-2x
+43,5.3,8.91,48,717,18,0,Graduate,Self-Employed,Urban,Male,2,0,1.681,"670-740
+(Very Good)",1.5-2x
+32,3.92,2.23,60,794,6,1,Under-Graduate,Salaried,Semi-Urban,Female,0,0,0.569,"740-800
+(Excellent)",<1x
+37,4.02,3.76,60,896,5,2,Under-Graduate,Freelance,Rural,Male,1,0,0.935,"800+
+(Exceptional)",<1x
+54,6.27,12.21,36,658,7,0,Post-Graduate,Salaried,Rural,Male,1,0,1.947,"580-670
+(Good)",1.5-2x
+30,5.23,11.64,36,621,12,0,Post-Graduate,Salaried,Semi-Urban,Male,3,0,2.226,"580-670
+(Good)",2-2.5x
+27,10.61,20.32,36,735,4,2,Under-Graduate,Salaried,Semi-Urban,Male,0,0,1.915,"670-740
+(Very Good)",1.5-2x
+37,4.88,11.51,48,811,1,0,Post-Graduate,Salaried,Urban,Female,0,0,2.359,"800+
+(Exceptional)",2-2.5x
+50,8.13,21.0,36,644,8,0,Graduate,Salaried,Semi-Urban,Male,1,0,2.583,"580-670
+(Good)",2.5-3x
+24,5.9,3.15,48,722,10,1,Under-Graduate,Business,Urban,Female,0,0,0.534,"670-740
+(Very Good)",<1x
+41,7.05,14.98,36,829,5,1,Graduate,Self-Employed,Urban,Male,0,0,2.125,"800+
+(Exceptional)",2-2.5x
+57,5.23,20.25,48,589,6,1,Graduate,Self-Employed,Semi-Urban,Male,2,0,3.872,"580-670
+(Good)",>3x
+40,9.17,21.24,48,738,6,0,Under-Graduate,Salaried,Urban,Male,1,0,2.316,"670-740
+(Very Good)",2-2.5x
+47,9.26,26.59,24,676,18,1,Under-Graduate,Salaried,Semi-Urban,Female,2,0,2.871,"670-740
+(Very Good)",2.5-3x
+24,7.91,12.59,48,729,5,1,Graduate,Salaried,Rural,Female,2,0,1.592,"670-740
+(Very Good)",1.5-2x
+40,8.64,27.73,36,776,10,1,Graduate,Freelance,Urban,Male,0,0,3.209,"740-800
+(Excellent)",>3x
+41,3.4,10.9,48,737,10,1,Graduate,Business,Urban,Female,1,0,3.206,"670-740
+(Very Good)",>3x
+53,7.28,16.92,36,639,6,0,Graduate,Business,Rural,Male,0,0,2.324,"580-670
+(Good)",2-2.5x
+28,12.7,49.73,36,679,1,0,Graduate,Business,Semi-Urban,Male,3,0,3.916,"670-740
+(Very Good)",>3x
+54,8.06,7.57,60,834,18,0,Under-Graduate,Salaried,Urban,Female,1,0,0.939,"800+
+(Exceptional)",<1x
+61,3.23,1.81,24,746,3,0,Graduate,Salaried,Urban,Female,1,0,0.56,"740-800
+(Excellent)",<1x
+60,5.82,18.6,48,787,5,1,Post-Graduate,Salaried,Semi-Urban,Female,0,0,3.196,"740-800
+(Excellent)",>3x
+39,7.51,24.97,36,740,16,2,Graduate,Salaried,Semi-Urban,Male,1,0,3.325,"670-740
+(Very Good)",>3x
+61,3.81,3.51,36,784,4,1,Diploma,Salaried,Urban,Male,0,1,0.921,"740-800
+(Excellent)",<1x
+22,2.66,3.8,36,688,6,2,Graduate,Salaried,Urban,Male,1,1,1.429,"670-740
+(Very Good)",1-1.5x
+32,4.96,2.78,36,658,8,0,Graduate,Self-Employed,Rural,Male,2,0,0.56,"580-670
+(Good)",<1x
+49,3.85,5.88,36,781,0,1,Graduate,Business,Semi-Urban,Female,2,0,1.527,"740-800
+(Excellent)",1.5-2x
+46,5.95,19.08,12,810,0,0,Post-Graduate,Self-Employed,Rural,Male,0,0,3.207,"800+
+(Exceptional)",>3x
+44,2.31,5.34,24,646,18,0,Post-Graduate,Freelance,Semi-Urban,Female,1,0,2.312,"580-670
+(Good)",2-2.5x
+52,8.42,14.47,12,673,5,0,Graduate,Salaried,Rural,Male,2,0,1.719,"670-740
+(Very Good)",1.5-2x
+51,4.1,7.38,60,706,17,1,Graduate,Salaried,Urban,Male,0,0,1.8,"670-740
+(Very Good)",1.5-2x
+56,10.9,5.5,60,849,9,3,Graduate,Self-Employed,Semi-Urban,Female,2,0,0.505,"800+
+(Exceptional)",<1x
+28,5.08,7.87,36,765,10,0,Post-Graduate,Salaried,Urban,Male,0,0,1.549,"740-800
+(Excellent)",1.5-2x
+37,5.91,16.33,48,614,0,0,Post-Graduate,Salaried,Semi-Urban,Female,2,0,2.763,"580-670
+(Good)",2.5-3x
+47,5.41,21.15,36,712,0,2,Graduate,Salaried,Semi-Urban,Male,1,0,3.909,"670-740
+(Very Good)",>3x
+23,3.97,13.75,48,700,12,0,Graduate,Salaried,Urban,Female,1,0,3.463,"670-740
+(Very Good)",>3x
+22,26.45,15.41,48,626,4,2,Graduate,Salaried,Rural,Male,2,1,0.583,"580-670
+(Good)",<1x
+33,4.46,16.26,60,711,19,1,Graduate,Salaried,Rural,Male,0,0,3.646,"670-740
+(Very Good)",>3x
+26,11.09,35.94,36,696,0,3,Post-Graduate,Salaried,Urban,Female,0,0,3.241,"670-740
+(Very Good)",>3x
+58,3.11,10.05,48,691,19,1,Graduate,Self-Employed,Semi-Urban,Female,1,0,3.232,"670-740
+(Very Good)",>3x
+53,7.5,15.77,24,687,2,1,Graduate,Salaried,Urban,Male,2,0,2.103,"670-740
+(Very Good)",2-2.5x
+30,8.0,15.14,60,837,17,1,Graduate,Salaried,Urban,Male,0,0,1.892,"800+
+(Exceptional)",1.5-2x
+56,5.91,9.22,12,690,8,1,Diploma,Salaried,Rural,Male,2,0,1.56,"670-740
+(Very Good)",1.5-2x
+40,4.26,3.11,36,723,13,1,Under-Graduate,Salaried,Urban,Male,1,0,0.73,"670-740
+(Very Good)",<1x
+37,5.12,6.65,48,715,16,0,Graduate,Self-Employed,Rural,Female,0,0,1.299,"670-740
+(Very Good)",1-1.5x
+24,4.71,6.42,48,679,13,1,Graduate,Business,Urban,Female,2,0,1.363,"670-740
+(Very Good)",1-1.5x
+41,25.35,55.62,24,726,3,1,Graduate,Self-Employed,Semi-Urban,Male,0,0,2.194,"670-740
+(Very Good)",2-2.5x
+45,5.92,18.45,60,725,4,2,Post-Graduate,Salaried,Semi-Urban,Male,1,1,3.117,"670-740
+(Very Good)",>3x
+54,8.22,17.74,24,726,16,1,Graduate,Self-Employed,Urban,Female,0,0,2.158,"670-740
+(Very Good)",2-2.5x
+45,17.47,12.27,36,651,1,1,Post-Graduate,Self-Employed,Urban,Male,1,0,0.702,"580-670
+(Good)",<1x
+32,3.55,13.68,24,703,4,0,Post-Graduate,Salaried,Rural,Female,1,1,3.854,"670-740
+(Very Good)",>3x
+29,6.14,23.33,36,780,3,1,Under-Graduate,Salaried,Semi-Urban,Male,1,0,3.8,"740-800
+(Excellent)",>3x
+57,5.11,16.6,36,705,3,1,Graduate,Salaried,Urban,Male,1,0,3.249,"670-740
+(Very Good)",>3x
+59,5.7,22.63,36,732,5,2,Under-Graduate,Self-Employed,Semi-Urban,Male,1,0,3.97,"670-740
+(Very Good)",>3x
+61,5.39,12.97,24,733,19,2,Under-Graduate,Self-Employed,Urban,Female,0,0,2.406,"670-740
+(Very Good)",2-2.5x
+41,3.87,14.98,24,753,12,0,Graduate,Salaried,Urban,Male,1,0,3.871,"740-800
+(Excellent)",>3x
+56,6.75,5.16,36,764,4,2,Graduate,Self-Employed,Semi-Urban,Male,3,0,0.764,"740-800
+(Excellent)",<1x
+46,3.17,5.64,48,706,6,0,Graduate,Salaried,Urban,Female,2,1,1.779,"670-740
+(Very Good)",1.5-2x
+56,10.86,14.0,48,647,19,0,Graduate,Salaried,Rural,Male,0,0,1.289,"580-670
+(Good)",1-1.5x
+46,8.72,10.34,12,622,0,1,Graduate,Freelance,Semi-Urban,Male,0,0,1.186,"580-670
+(Good)",1-1.5x
+50,4.46,4.43,36,801,13,0,Post-Graduate,Freelance,Rural,Male,3,0,0.993,"800+
+(Exceptional)",<1x
+39,4.59,12.29,24,781,3,1,Graduate,Salaried,Semi-Urban,Male,1,0,2.678,"740-800
+(Excellent)",2.5-3x
+39,7.08,22.9,12,771,16,0,Diploma,Salaried,Rural,Female,1,0,3.234,"740-800
+(Excellent)",>3x
+23,3.72,9.39,48,784,13,0,Graduate,Salaried,Semi-Urban,Female,2,0,2.524,"740-800
+(Excellent)",2.5-3x
+56,17.8,18.06,36,707,15,1,Diploma,Salaried,Semi-Urban,Male,0,0,1.015,"670-740
+(Very Good)",1-1.5x
+37,7.44,24.84,24,670,13,1,Graduate,Business,Rural,Female,1,1,3.339,"580-670
+(Good)",>3x
+57,7.6,20.72,24,641,15,2,Under-Graduate,Freelance,Semi-Urban,Male,3,0,2.726,"580-670
+(Good)",2.5-3x
+54,9.03,16.78,12,632,19,1,Graduate,Self-Employed,Urban,Female,2,0,1.858,"580-670
+(Good)",1.5-2x
+25,4.24,12.12,48,816,7,1,Graduate,Salaried,Semi-Urban,Male,0,0,2.858,"800+
+(Exceptional)",2.5-3x
+54,11.53,16.25,60,680,2,0,Under-Graduate,Self-Employed,Rural,Male,0,0,1.409,"670-740
+(Very Good)",1-1.5x
+35,6.43,10.98,24,804,18,0,Graduate,Salaried,Semi-Urban,Male,0,0,1.708,"800+
+(Exceptional)",1.5-2x
+42,10.61,39.38,24,705,0,0,Post-Graduate,Business,Semi-Urban,Male,2,0,3.712,"670-740
+(Very Good)",>3x
+41,5.33,8.08,48,665,1,1,Post-Graduate,Business,Semi-Urban,Male,0,0,1.516,"580-670
+(Good)",1.5-2x
+29,13.23,28.38,60,632,14,1,Post-Graduate,Self-Employed,Rural,Male,0,0,2.145,"580-670
+(Good)",2-2.5x
+28,7.63,27.59,36,672,9,1,Post-Graduate,Salaried,Urban,Female,3,0,3.616,"670-740
+(Very Good)",>3x
+24,22.23,66.18,12,833,17,1,Under-Graduate,Salaried,Semi-Urban,Male,0,0,2.977,"800+
+(Exceptional)",2.5-3x
+38,4.81,3.45,12,633,13,1,Graduate,Salaried,Urban,Female,0,0,0.717,"580-670
+(Good)",<1x
+54,6.78,6.89,36,889,16,0,Post-Graduate,Business,Semi-Urban,Male,0,0,1.016,"800+
+(Exceptional)",1-1.5x
+33,3.23,1.7,36,652,12,0,Under-Graduate,Salaried,Semi-Urban,Female,0,0,0.526,"580-670
+(Good)",<1x
+43,4.37,11.83,12,779,0,2,Graduate,Salaried,Urban,Female,1,0,2.707,"740-800
+(Excellent)",2.5-3x
+43,8.7,17.98,36,708,4,1,Graduate,Salaried,Urban,Female,3,0,2.067,"670-740
+(Very Good)",2-2.5x
+51,11.81,11.46,12,694,12,2,Under-Graduate,Business,Semi-Urban,Female,2,0,0.97,"670-740
+(Very Good)",<1x
+59,35.54,136.93,48,618,13,0,Graduate,Salaried,Urban,Female,1,0,3.853,"580-670
+(Good)",>3x
+59,5.66,13.32,36,712,2,3,Graduate,Business,Urban,Male,1,0,2.353,"670-740
+(Very Good)",2-2.5x
+29,3.43,4.62,12,627,14,0,Graduate,Business,Rural,Male,1,0,1.347,"580-670
+(Good)",1-1.5x
+48,9.43,21.24,36,585,18,0,Post-Graduate,Freelance,Urban,Male,0,0,2.252,"580-670
+(Good)",2-2.5x
+48,3.05,8.78,36,729,16,3,Graduate,Salaried,Semi-Urban,Male,0,0,2.879,"670-740
+(Very Good)",2.5-3x
+55,8.42,6.46,60,669,2,0,Post-Graduate,Salaried,Rural,Male,3,0,0.767,"580-670
+(Good)",<1x
+42,4.44,6.49,36,854,15,1,Under-Graduate,Salaried,Urban,Female,0,0,1.462,"800+
+(Exceptional)",1-1.5x
+51,6.81,22.64,24,800,13,0,Graduate,Salaried,Urban,Male,0,0,3.325,"740-800
+(Excellent)",>3x
+54,11.55,24.36,48,855,11,1,Post-Graduate,Salaried,Semi-Urban,Male,1,0,2.109,"800+
+(Exceptional)",2-2.5x
+49,5.61,13.54,24,665,11,2,Diploma,Self-Employed,Semi-Urban,Male,1,0,2.414,"580-670
+(Good)",2-2.5x
+54,10.5,21.16,60,730,10,0,Post-Graduate,Salaried,Rural,Female,0,0,2.015,"670-740
+(Very Good)",2-2.5x
+26,10.13,6.62,36,510,16,1,Under-Graduate,Business,Rural,Male,0,0,0.654,"500-580
+(Fair)",<1x
+40,1.96,2.12,36,697,7,0,Graduate,Salaried,Semi-Urban,Male,1,0,1.082,"670-740
+(Very Good)",1-1.5x
+25,3.49,7.19,12,727,16,1,Under-Graduate,Self-Employed,Urban,Male,2,0,2.06,"670-740
+(Very Good)",2-2.5x
+56,2.35,2.9,36,732,19,0,Graduate,Business,Urban,Female,0,0,1.234,"670-740
+(Very Good)",1-1.5x
+38,19.94,13.46,48,716,10,0,Graduate,Business,Urban,Female,1,0,0.675,"670-740
+(Very Good)",<1x
+49,5.63,19.44,48,725,1,0,Graduate,Business,Urban,Female,1,0,3.453,"670-740
+(Very Good)",>3x
+51,17.47,68.73,24,502,9,0,Graduate,Self-Employed,Semi-Urban,Female,2,0,3.934,"500-580
+(Fair)",>3x
+50,2.25,7.37,24,740,9,2,Under-Graduate,Business,Semi-Urban,Male,0,0,3.276,"670-740
+(Very Good)",>3x
+27,4.26,14.86,48,758,10,0,Graduate,Salaried,Urban,Female,0,0,3.488,"740-800
+(Excellent)",>3x
+56,9.7,13.07,60,827,5,0,Post-Graduate,Salaried,Rural,Male,1,0,1.347,"800+
+(Exceptional)",1-1.5x
+58,6.68,25.8,12,749,3,1,Under-Graduate,Salaried,Urban,Male,2,0,3.862,"740-800
+(Excellent)",>3x
+45,8.26,9.82,36,709,11,0,Post-Graduate,Salaried,Urban,Male,0,0,1.189,"670-740
+(Very Good)",1-1.5x
+50,2.83,10.84,36,808,10,1,Graduate,Salaried,Semi-Urban,Male,1,0,3.83,"800+
+(Exceptional)",>3x
+52,13.71,54.59,48,531,12,3,Post-Graduate,Salaried,Urban,Female,0,1,3.982,"500-580
+(Fair)",>3x
+56,9.56,28.59,12,678,4,1,Graduate,Salaried,Urban,Male,0,0,2.991,"670-740
+(Very Good)",2.5-3x
+54,7.63,30.02,24,658,5,2,Graduate,Salaried,Urban,Female,1,0,3.934,"580-670
+(Good)",>3x
+42,3.98,9.92,48,717,0,1,Diploma,Salaried,Urban,Male,0,1,2.492,"670-740
+(Very Good)",2-2.5x
+53,7.29,10.27,12,544,5,0,Graduate,Business,Semi-Urban,Male,2,0,1.409,"500-580
+(Fair)",1-1.5x
+44,5.04,10.23,36,825,17,1,Graduate,Salaried,Rural,Male,1,0,2.03,"800+
+(Exceptional)",2-2.5x
+54,2.23,5.75,36,700,8,1,Under-Graduate,Self-Employed,Urban,Female,1,0,2.578,"670-740
+(Very Good)",2.5-3x
+24,5.82,4.4,36,745,14,1,Graduate,Salaried,Urban,Female,1,0,0.756,"740-800
+(Excellent)",<1x
+39,5.46,14.62,36,737,7,2,Post-Graduate,Business,Semi-Urban,Male,1,0,2.678,"670-740
+(Very Good)",2.5-3x
+46,11.35,44.65,36,820,18,1,Graduate,Business,Rural,Male,0,0,3.934,"800+
+(Exceptional)",>3x
+52,1.57,1.83,24,571,15,2,Graduate,Self-Employed,Urban,Male,2,0,1.166,"500-580
+(Fair)",1-1.5x
+24,6.91,22.62,36,728,5,2,Graduate,Self-Employed,Urban,Female,3,0,3.274,"670-740
+(Very Good)",>3x
+61,3.0,11.03,48,811,5,1,Graduate,Salaried,Semi-Urban,Female,0,0,3.677,"800+
+(Exceptional)",>3x
+45,7.27,27.65,48,712,2,1,Graduate,Freelance,Semi-Urban,Male,0,0,3.803,"670-740
+(Very Good)",>3x
+53,7.51,28.99,24,643,9,0,Under-Graduate,Business,Urban,Female,0,0,3.86,"580-670
+(Good)",>3x
+43,5.7,13.25,24,671,0,3,Post-Graduate,Business,Semi-Urban,Male,2,0,2.325,"670-740
+(Very Good)",2-2.5x
+44,9.74,38.19,24,688,13,1,Diploma,Self-Employed,Urban,Male,2,0,3.921,"670-740
+(Very Good)",>3x
+23,2.84,8.95,36,662,3,0,Graduate,Salaried,Semi-Urban,Female,2,0,3.151,"580-670
+(Good)",>3x
+48,11.66,12.43,36,707,11,0,Post-Graduate,Business,Semi-Urban,Male,2,0,1.066,"670-740
+(Very Good)",1-1.5x
+23,3.92,8.5,48,840,5,1,Post-Graduate,Salaried,Rural,Male,1,0,2.168,"800+
+(Exceptional)",2-2.5x
+47,2.36,7.11,12,672,10,0,Diploma,Self-Employed,Semi-Urban,Male,1,0,3.013,"670-740
+(Very Good)",>3x
+38,5.1,6.97,12,680,11,0,Graduate,Salaried,Urban,Male,2,0,1.367,"670-740
+(Very Good)",1-1.5x
+61,1.71,4.69,36,756,9,1,Post-Graduate,Business,Urban,Female,1,0,2.743,"740-800
+(Excellent)",2.5-3x
+54,6.99,19.8,48,706,17,0,Under-Graduate,Salaried,Rural,Male,1,0,2.833,"670-740
+(Very Good)",2.5-3x
+30,5.14,5.5,24,613,6,1,Graduate,Salaried,Urban,Female,1,0,1.07,"580-670
+(Good)",1-1.5x
+60,12.58,31.17,36,715,6,0,Under-Graduate,Self-Employed,Urban,Male,1,0,2.478,"670-740
+(Very Good)",2-2.5x
+50,8.86,28.36,24,712,10,0,Graduate,Business,Urban,Male,1,0,3.201,"670-740
+(Very Good)",>3x
+47,2.6,5.84,48,798,3,1,Under-Graduate,Self-Employed,Semi-Urban,Male,1,0,2.246,"740-800
+(Excellent)",2-2.5x
+56,3.63,1.97,48,642,19,1,Diploma,Salaried,Semi-Urban,Male,2,0,0.543,"580-670
+(Good)",<1x
+46,8.2,4.36,24,798,0,0,Post-Graduate,Salaried,Urban,Female,1,0,0.532,"740-800
+(Excellent)",<1x
+45,9.97,17.44,24,712,12,0,Graduate,Business,Urban,Female,1,0,1.749,"670-740
+(Very Good)",1.5-2x
+34,12.49,46.73,36,631,17,1,Graduate,Freelance,Rural,Male,2,0,3.741,"580-670
+(Good)",>3x
+28,12.43,16.16,24,615,8,0,Diploma,Business,Semi-Urban,Female,1,0,1.3,"580-670
+(Good)",1-1.5x
+57,5.69,15.48,48,874,8,0,Post-Graduate,Salaried,Semi-Urban,Female,0,0,2.721,"800+
+(Exceptional)",2.5-3x
+41,7.46,9.53,48,707,8,0,Graduate,Business,Rural,Male,0,0,1.277,"670-740
+(Very Good)",1-1.5x
+22,13.08,21.27,48,794,9,2,Post-Graduate,Salaried,Rural,Female,1,0,1.626,"740-800
+(Excellent)",1.5-2x
+29,5.0,17.34,48,583,1,2,Post-Graduate,Salaried,Urban,Male,1,0,3.468,"580-670
+(Good)",>3x
+37,7.54,23.0,36,900,5,2,Graduate,Salaried,Rural,Male,3,0,3.05,"800+
+(Exceptional)",>3x
+35,4.93,4.11,24,791,14,1,Graduate,Salaried,Urban,Male,1,0,0.834,"740-800
+(Excellent)",<1x
+33,4.31,8.62,48,699,2,1,Graduate,Business,Urban,Male,1,0,2.0,"670-740
+(Very Good)",1.5-2x
+44,6.18,3.72,36,695,10,1,Post-Graduate,Salaried,Rural,Male,0,0,0.602,"670-740
+(Very Good)",<1x
+36,3.97,8.67,48,778,5,1,Post-Graduate,Salaried,Urban,Male,0,0,2.184,"740-800
+(Excellent)",2-2.5x
+49,5.55,15.64,24,774,2,0,Post-Graduate,Salaried,Urban,Male,2,0,2.818,"740-800
+(Excellent)",2.5-3x
+55,3.22,2.95,12,734,10,1,Under-Graduate,Salaried,Urban,Female,0,0,0.916,"670-740
+(Very Good)",<1x
+23,5.35,8.08,60,720,14,2,Under-Graduate,Self-Employed,Semi-Urban,Female,1,0,1.51,"670-740
+(Very Good)",1.5-2x
+53,7.85,14.86,24,764,12,1,Post-Graduate,Salaried,Urban,Female,2,0,1.893,"740-800
+(Excellent)",1.5-2x
+44,4.21,15.65,60,580,19,0,Graduate,Salaried,Semi-Urban,Male,1,0,3.717,"500-580
+(Fair)",>3x
+43,6.03,23.98,60,690,9,0,Post-Graduate,Self-Employed,Rural,Male,2,1,3.977,"670-740
+(Very Good)",>3x
+46,6.52,4.28,48,588,5,1,Graduate,Self-Employed,Semi-Urban,Male,1,0,0.656,"580-670
+(Good)",<1x
+43,7.87,24.9,48,768,14,1,Post-Graduate,Business,Urban,Male,0,0,3.164,"740-800
+(Excellent)",>3x
+43,5.54,9.98,36,665,17,2,Post-Graduate,Salaried,Rural,Male,2,0,1.801,"580-670
+(Good)",1.5-2x
+27,11.51,21.57,48,594,17,0,Graduate,Business,Urban,Male,2,0,1.874,"580-670
+(Good)",1.5-2x
+36,1.7,5.34,24,656,6,2,Diploma,Freelance,Urban,Female,0,0,3.141,"580-670
+(Good)",>3x
+58,34.97,129.9,36,731,14,1,Graduate,Business,Urban,Female,0,0,3.715,"670-740
+(Very Good)",>3x
+54,3.56,13.63,36,703,17,2,Post-Graduate,Self-Employed,Semi-Urban,Male,0,0,3.829,"670-740
+(Very Good)",>3x
+29,7.64,19.25,36,626,17,1,Graduate,Salaried,Urban,Male,0,0,2.52,"580-670
+(Good)",2.5-3x
+26,3.42,5.98,36,583,19,1,Diploma,Freelance,Urban,Female,3,0,1.749,"580-670
+(Good)",1.5-2x
+60,8.83,28.75,36,725,8,1,Graduate,Salaried,Urban,Male,1,0,3.256,"670-740
+(Very Good)",>3x
+25,7.08,9.76,36,673,1,1,Graduate,Salaried,Urban,Male,1,1,1.379,"670-740
+(Very Good)",1-1.5x
+27,4.06,10.05,48,699,7,3,Graduate,Salaried,Semi-Urban,Male,2,0,2.475,"670-740
+(Very Good)",2-2.5x
+53,11.42,20.04,24,707,19,0,Graduate,Salaried,Rural,Male,1,0,1.755,"670-740
+(Very Good)",1.5-2x
+51,5.44,15.22,60,754,1,0,Graduate,Freelance,Semi-Urban,Male,0,1,2.798,"740-800
+(Excellent)",2.5-3x
+56,8.33,11.17,48,787,10,3,Post-Graduate,Self-Employed,Urban,Female,3,0,1.341,"740-800
+(Excellent)",1-1.5x
+61,3.46,4.05,48,731,6,1,Graduate,Self-Employed,Urban,Female,2,0,1.171,"670-740
+(Very Good)",1-1.5x
+37,5.89,21.87,36,694,5,1,Graduate,Self-Employed,Rural,Male,2,0,3.713,"670-740
+(Very Good)",>3x
+34,19.96,17.09,48,721,9,1,Graduate,Salaried,Urban,Male,1,0,0.856,"670-740
+(Very Good)",<1x
+51,10.69,24.28,12,692,4,0,Under-Graduate,Salaried,Rural,Female,2,0,2.271,"670-740
+(Very Good)",2-2.5x
+40,7.22,9.19,48,588,10,2,Post-Graduate,Self-Employed,Urban,Male,0,0,1.273,"580-670
+(Good)",1-1.5x
+38,4.58,2.91,12,807,0,1,Under-Graduate,Self-Employed,Rural,Male,1,0,0.635,"800+
+(Exceptional)",<1x
+40,6.25,3.91,48,792,1,0,Post-Graduate,Salaried,Urban,Male,3,0,0.626,"740-800
+(Excellent)",<1x
+49,6.76,7.53,60,879,0,0,Graduate,Business,Urban,Male,0,0,1.114,"800+
+(Exceptional)",1-1.5x
+47,7.86,27.77,24,900,18,2,Graduate,Salaried,Semi-Urban,Female,2,0,3.533,"800+
+(Exceptional)",>3x
+58,3.14,4.67,24,625,1,0,Graduate,Salaried,Semi-Urban,Female,1,0,1.487,"580-670
+(Good)",1-1.5x
+47,8.96,34.29,48,693,19,2,Under-Graduate,Salaried,Urban,Male,0,0,3.827,"670-740
+(Very Good)",>3x
+44,3.12,7.91,24,900,3,0,Diploma,Salaried,Semi-Urban,Male,2,0,2.535,"800+
+(Exceptional)",2.5-3x
+30,15.97,32.39,48,716,11,1,Post-Graduate,Business,Semi-Urban,Male,0,0,2.028,"670-740
+(Very Good)",2-2.5x
+33,3.78,9.56,24,739,19,3,Graduate,Business,Urban,Male,1,1,2.529,"670-740
+(Very Good)",2.5-3x
+22,7.17,16.55,24,598,17,1,Graduate,Salaried,Urban,Female,0,0,2.308,"580-670
+(Good)",2-2.5x
+22,10.97,34.62,60,732,0,1,Graduate,Self-Employed,Semi-Urban,Female,3,0,3.156,"670-740
+(Very Good)",>3x
+55,5.16,7.68,48,874,0,1,Post-Graduate,Self-Employed,Urban,Male,0,0,1.488,"800+
+(Exceptional)",1-1.5x
+53,7.36,12.77,48,822,13,0,Graduate,Salaried,Semi-Urban,Female,0,1,1.735,"800+
+(Exceptional)",1.5-2x
+46,14.19,51.5,36,671,3,0,Diploma,Salaried,Urban,Female,0,0,3.629,"670-740
+(Very Good)",>3x
+61,8.42,32.1,48,688,4,3,Graduate,Freelance,Urban,Female,3,1,3.812,"670-740
+(Very Good)",>3x
+22,7.43,26.93,36,629,10,2,Diploma,Self-Employed,Urban,Male,2,1,3.624,"580-670
+(Good)",>3x
+37,2.18,4.29,36,651,12,1,Under-Graduate,Freelance,Semi-Urban,Male,2,1,1.968,"580-670
+(Good)",1.5-2x
+60,3.43,11.08,48,567,15,0,Under-Graduate,Salaried,Urban,Female,1,0,3.23,"500-580
+(Fair)",>3x
+26,11.24,24.36,36,713,12,0,Post-Graduate,Self-Employed,Urban,Male,1,0,2.167,"670-740
+(Very Good)",2-2.5x
+43,8.45,18.94,36,840,1,0,Post-Graduate,Salaried,Urban,Female,0,0,2.241,"800+
+(Exceptional)",2-2.5x
+50,9.25,11.25,24,748,15,1,Post-Graduate,Salaried,Rural,Female,1,0,1.216,"740-800
+(Excellent)",1-1.5x
+24,8.78,22.56,48,829,5,2,Post-Graduate,Salaried,Urban,Female,0,0,2.569,"800+
+(Exceptional)",2.5-3x
+33,13.01,14.98,24,805,13,1,Post-Graduate,Salaried,Semi-Urban,Male,3,1,1.151,"800+
+(Exceptional)",1-1.5x
+47,5.13,8.52,48,676,0,2,Diploma,Salaried,Urban,Female,2,1,1.661,"670-740
+(Very Good)",1.5-2x
+37,6.45,22.53,24,659,16,0,Under-Graduate,Salaried,Urban,Male,1,0,3.493,"580-670
+(Good)",>3x
+58,3.24,3.97,36,662,10,0,Under-Graduate,Salaried,Semi-Urban,Female,0,0,1.225,"580-670
+(Good)",1-1.5x
+43,2.79,2.09,48,582,18,0,Under-Graduate,Self-Employed,Semi-Urban,Male,2,0,0.749,"580-670
+(Good)",<1x
+50,2.24,1.66,24,722,2,1,Graduate,Salaried,Rural,Male,0,0,0.741,"670-740
+(Very Good)",<1x
+35,3.53,13.39,12,487,10,0,Graduate,Salaried,Rural,Female,0,0,3.793,"300-500
+(Poor)",>3x
+49,15.23,34.64,24,767,4,3,Post-Graduate,Salaried,Semi-Urban,Male,0,0,2.274,"740-800
+(Excellent)",2-2.5x
+26,2.36,4.56,36,725,16,0,Post-Graduate,Salaried,Semi-Urban,Male,1,0,1.932,"670-740
+(Very Good)",1.5-2x
+51,5.0,16.69,48,757,6,2,Under-Graduate,Self-Employed,Semi-Urban,Female,2,0,3.338,"740-800
+(Excellent)",>3x
+26,2.76,9.45,12,804,9,1,Graduate,Salaried,Urban,Male,0,0,3.424,"800+
+(Exceptional)",>3x
+33,4.18,6.95,48,735,10,3,Post-Graduate,Business,Rural,Male,0,0,1.663,"670-740
+(Very Good)",1.5-2x
+37,6.64,19.44,36,850,2,1,Post-Graduate,Salaried,Semi-Urban,Male,1,0,2.928,"800+
+(Exceptional)",2.5-3x
+47,3.94,12.6,36,769,19,3,Graduate,Salaried,Semi-Urban,Female,2,0,3.198,"740-800
+(Excellent)",>3x
+47,11.54,32.21,60,659,9,0,Post-Graduate,Business,Urban,Female,0,0,2.791,"580-670
+(Good)",2.5-3x
+42,15.06,15.52,36,700,9,1,Under-Graduate,Self-Employed,Urban,Male,0,0,1.031,"670-740
+(Very Good)",1-1.5x
+60,1.56,5.56,36,539,13,2,Graduate,Salaried,Rural,Male,3,0,3.564,"500-580
+(Fair)",>3x
+57,3.98,9.5,12,647,11,0,Post-Graduate,Business,Urban,Male,3,0,2.387,"580-670
+(Good)",2-2.5x
+54,6.22,9.26,12,689,14,0,Post-Graduate,Salaried,Urban,Male,3,0,1.489,"670-740
+(Very Good)",1-1.5x
+51,11.79,23.44,24,763,9,1,Graduate,Business,Urban,Male,2,0,1.988,"740-800
+(Excellent)",1.5-2x
+58,4.57,2.89,12,659,9,3,Graduate,Self-Employed,Rural,Male,0,0,0.632,"580-670
+(Good)",<1x
+44,5.93,5.62,36,620,18,1,Diploma,Self-Employed,Urban,Male,0,0,0.948,"580-670
+(Good)",<1x
+31,3.0,9.54,36,568,0,1,Graduate,Freelance,Rural,Male,0,1,3.18,"500-580
+(Fair)",>3x
+26,2.39,1.2,36,672,9,0,Graduate,Salaried,Urban,Female,0,0,0.502,"670-740
+(Very Good)",<1x
+57,14.28,27.96,24,876,1,0,Graduate,Self-Employed,Rural,Male,3,0,1.958,"800+
+(Exceptional)",1.5-2x
+55,2.01,4.68,24,741,16,2,Post-Graduate,Salaried,Semi-Urban,Male,2,0,2.328,"740-800
+(Excellent)",2-2.5x
+52,24.26,16.77,48,795,6,0,Post-Graduate,Salaried,Urban,Male,2,0,0.691,"740-800
+(Excellent)",<1x
+31,9.27,36.21,60,647,6,1,Post-Graduate,Salaried,Semi-Urban,Male,0,0,3.906,"580-670
+(Good)",>3x
+40,9.02,11.65,12,594,19,2,Graduate,Salaried,Urban,Female,3,0,1.292,"580-670
+(Good)",1-1.5x
+53,8.47,13.25,48,622,8,0,Under-Graduate,Self-Employed,Urban,Female,2,0,1.564,"580-670
+(Good)",1.5-2x
+22,5.16,8.07,36,712,1,1,Graduate,Self-Employed,Rural,Male,0,0,1.564,"670-740
+(Very Good)",1.5-2x
+26,7.59,9.92,36,560,13,0,Graduate,Self-Employed,Urban,Male,2,0,1.307,"500-580
+(Fair)",1-1.5x
+25,5.36,2.71,36,639,16,1,Post-Graduate,Salaried,Urban,Male,0,0,0.506,"580-670
+(Good)",<1x
+37,8.36,25.52,12,673,0,0,Graduate,Salaried,Urban,Male,0,0,3.053,"670-740
+(Very Good)",>3x
+45,5.88,22.84,12,614,8,1,Under-Graduate,Business,Urban,Female,2,1,3.884,"580-670
+(Good)",>3x
+37,3.39,4.36,36,550,19,0,Diploma,Salaried,Rural,Male,2,0,1.286,"500-580
+(Fair)",1-1.5x
+23,3.56,10.04,36,743,18,1,Graduate,Self-Employed,Urban,Male,0,0,2.82,"740-800
+(Excellent)",2.5-3x
+49,3.32,10.28,60,723,3,1,Under-Graduate,Business,Rural,Male,0,0,3.096,"670-740
+(Very Good)",>3x
+53,10.74,37.26,36,782,7,0,Under-Graduate,Business,Rural,Male,3,1,3.469,"740-800
+(Excellent)",>3x
+48,4.14,8.19,24,631,12,1,Diploma,Salaried,Urban,Female,2,0,1.978,"580-670
+(Good)",1.5-2x
+41,1.91,2.98,48,780,3,0,Graduate,Business,Urban,Female,2,0,1.56,"740-800
+(Excellent)",1.5-2x
+45,7.61,12.47,24,842,8,1,Post-Graduate,Salaried,Rural,Female,0,0,1.639,"800+
+(Exceptional)",1.5-2x
+33,14.89,44.58,36,740,8,0,Graduate,Business,Urban,Male,0,0,2.994,"670-740
+(Very Good)",2.5-3x
+56,9.54,32.04,48,671,17,1,Under-Graduate,Salaried,Urban,Male,0,0,3.358,"670-740
+(Very Good)",>3x
+54,4.18,4.75,60,731,11,0,Graduate,Salaried,Urban,Male,0,0,1.136,"670-740
+(Very Good)",1-1.5x
+54,2.32,4.17,48,667,9,1,Post-Graduate,Salaried,Semi-Urban,Female,0,0,1.797,"580-670
+(Good)",1.5-2x
+58,5.54,20.26,48,654,10,0,Graduate,Business,Semi-Urban,Male,0,0,3.657,"580-670
+(Good)",>3x
+33,5.45,18.11,48,774,6,1,Graduate,Salaried,Urban,Male,1,0,3.323,"740-800
+(Excellent)",>3x
+24,3.35,13.22,60,708,8,0,Post-Graduate,Salaried,Urban,Female,0,0,3.946,"670-740
+(Very Good)",>3x
+22,8.35,26.22,24,816,5,2,Under-Graduate,Salaried,Rural,Female,2,0,3.14,"800+
+(Exceptional)",>3x
+54,18.17,34.09,12,684,18,2,Post-Graduate,Business,Semi-Urban,Female,0,0,1.876,"670-740
+(Very Good)",1.5-2x
+61,6.86,17.61,24,692,15,0,Under-Graduate,Business,Semi-Urban,Male,1,0,2.567,"670-740
+(Very Good)",2.5-3x
+31,6.61,18.6,24,674,14,1,Graduate,Self-Employed,Semi-Urban,Female,0,0,2.814,"670-740
+(Very Good)",2.5-3x
+50,3.42,2.65,48,630,6,0,Post-Graduate,Self-Employed,Urban,Male,1,0,0.775,"580-670
+(Good)",<1x
+34,13.88,33.39,36,785,15,0,Post-Graduate,Salaried,Semi-Urban,Female,0,0,2.406,"740-800
+(Excellent)",2-2.5x
+33,5.74,17.12,36,894,4,1,Graduate,Salaried,Urban,Female,3,1,2.983,"800+
+(Exceptional)",2.5-3x
+52,4.24,4.6,12,689,15,1,Post-Graduate,Business,Urban,Male,2,0,1.085,"670-740
+(Very Good)",1-1.5x
+23,6.23,20.14,48,665,0,1,Post-Graduate,Salaried,Semi-Urban,Female,1,0,3.233,"580-670
+(Good)",>3x
+56,7.96,20.24,36,660,18,0,Post-Graduate,Salaried,Urban,Female,0,0,2.543,"580-670
+(Good)",2.5-3x
+44,6.52,24.99,48,665,4,0,Under-Graduate,Salaried,Rural,Male,1,0,3.833,"580-670
+(Good)",>3x
+38,12.37,8.02,36,851,6,0,Post-Graduate,Salaried,Urban,Male,2,0,0.648,"800+
+(Exceptional)",<1x
+47,7.55,10.79,36,662,18,1,Graduate,Salaried,Rural,Male,0,0,1.429,"580-670
+(Good)",1-1.5x
+29,5.06,13.18,24,673,4,1,Graduate,Salaried,Rural,Female,1,0,2.605,"670-740
+(Very Good)",2.5-3x
+50,7.63,11.73,12,620,16,1,Post-Graduate,Salaried,Urban,Female,2,0,1.537,"580-670
+(Good)",1.5-2x
+47,8.1,24.3,48,743,7,0,Graduate,Salaried,Semi-Urban,Male,2,0,3.0,"740-800
+(Excellent)",2.5-3x
+31,2.76,8.71,60,714,0,0,Graduate,Salaried,Urban,Male,2,1,3.156,"670-740
+(Very Good)",>3x
+47,11.96,10.27,36,629,1,0,Graduate,Salaried,Rural,Male,2,1,0.859,"580-670
+(Good)",<1x
+55,5.01,11.52,24,648,14,0,Post-Graduate,Salaried,Semi-Urban,Male,3,0,2.299,"580-670
+(Good)",2-2.5x
+28,5.09,11.61,36,842,19,0,Graduate,Business,Semi-Urban,Male,1,0,2.281,"800+
+(Exceptional)",2-2.5x
+25,9.42,16.89,48,722,17,2,Under-Graduate,Salaried,Semi-Urban,Male,1,0,1.793,"670-740
+(Very Good)",1.5-2x
+32,9.39,35.36,48,728,10,2,Post-Graduate,Self-Employed,Urban,Male,2,0,3.766,"670-740
+(Very Good)",>3x
+50,3.94,13.38,24,728,9,1,Graduate,Self-Employed,Urban,Male,2,0,3.396,"670-740
+(Very Good)",>3x
+57,9.71,28.55,12,831,3,1,Under-Graduate,Self-Employed,Urban,Female,3,0,2.94,"800+
+(Exceptional)",2.5-3x
+46,4.29,12.87,48,636,4,0,Post-Graduate,Salaried,Semi-Urban,Female,0,0,3.0,"580-670
+(Good)",2.5-3x
+42,17.88,37.83,36,688,3,2,Post-Graduate,Salaried,Semi-Urban,Female,1,0,2.116,"670-740
+(Very Good)",2-2.5x
+57,3.65,13.59,24,706,12,0,Post-Graduate,Salaried,Semi-Urban,Female,0,0,3.723,"670-740
+(Very Good)",>3x
+31,6.93,20.31,12,582,12,3,Graduate,Self-Employed,Urban,Male,0,0,2.931,"580-670
+(Good)",2.5-3x
+58,3.75,11.44,36,646,17,1,Post-Graduate,Salaried,Semi-Urban,Male,0,0,3.051,"580-670
+(Good)",>3x
+30,22.77,80.06,48,803,1,0,Graduate,Business,Urban,Male,2,0,3.516,"800+
+(Exceptional)",>3x
+45,2.85,4.16,60,780,15,2,Diploma,Business,Rural,Female,0,0,1.46,"740-800
+(Excellent)",1-1.5x
+56,8.22,27.33,36,794,0,0,Under-Graduate,Salaried,Rural,Female,2,0,3.325,"740-800
+(Excellent)",>3x
+56,3.86,4.57,36,672,18,1,Post-Graduate,Salaried,Urban,Female,2,0,1.184,"670-740
+(Very Good)",1-1.5x
+57,4.85,8.29,12,682,8,1,Graduate,Self-Employed,Urban,Female,0,0,1.709,"670-740
+(Very Good)",1.5-2x
+39,7.88,13.2,36,576,2,0,Graduate,Salaried,Urban,Female,0,0,1.675,"500-580
+(Fair)",1.5-2x
+60,12.51,49.1,36,794,6,1,Graduate,Salaried,Semi-Urban,Male,1,0,3.925,"740-800
+(Excellent)",>3x
+53,15.89,55.58,36,807,9,1,Post-Graduate,Business,Semi-Urban,Male,2,0,3.498,"800+
+(Exceptional)",>3x
+45,2.39,7.06,36,806,0,1,Graduate,Salaried,Semi-Urban,Male,2,0,2.954,"800+
+(Exceptional)",2.5-3x
+44,7.05,21.47,24,848,9,0,Post-Graduate,Business,Urban,Male,2,0,3.045,"800+
+(Exceptional)",>3x
+53,14.4,35.53,12,753,8,3,Graduate,Self-Employed,Semi-Urban,Female,3,0,2.467,"740-800
+(Excellent)",2-2.5x
+58,2.18,8.32,36,844,14,0,Diploma,Business,Semi-Urban,Male,1,1,3.817,"800+
+(Exceptional)",>3x
+33,7.25,16.22,12,703,14,0,Graduate,Salaried,Urban,Male,3,0,2.237,"670-740
+(Very Good)",2-2.5x
+34,5.99,10.97,24,578,2,0,Diploma,Salaried,Semi-Urban,Male,2,0,1.831,"500-580
+(Fair)",1.5-2x
+44,7.69,8.23,60,788,4,0,Diploma,Salaried,Urban,Male,2,0,1.07,"740-800
+(Excellent)",1-1.5x
+46,3.77,12.26,36,575,8,0,Post-Graduate,Salaried,Semi-Urban,Male,0,0,3.252,"500-580
+(Fair)",>3x
+56,2.54,7.8,36,733,8,3,Under-Graduate,Salaried,Rural,Male,3,0,3.071,"670-740
+(Very Good)",>3x
+51,1.9,3.51,48,796,6,0,Graduate,Salaried,Urban,Male,1,0,1.847,"740-800
+(Excellent)",1.5-2x
+38,10.78,6.34,60,745,11,0,Post-Graduate,Salaried,Rural,Female,2,0,0.588,"740-800
+(Excellent)",<1x
+41,11.64,40.0,36,900,8,0,Graduate,Salaried,Semi-Urban,Male,0,0,3.436,"800+
+(Exceptional)",>3x
+46,7.19,3.88,48,562,5,1,Graduate,Business,Urban,Male,1,0,0.54,"500-580
+(Fair)",<1x
+43,4.35,12.89,36,713,1,2,Post-Graduate,Salaried,Semi-Urban,Female,0,0,2.963,"670-740
+(Very Good)",2.5-3x
+34,2.27,8.84,36,721,8,0,Post-Graduate,Salaried,Semi-Urban,Female,0,0,3.894,"670-740
+(Very Good)",>3x
+40,8.41,17.09,36,612,16,0,Post-Graduate,Self-Employed,Urban,Female,0,0,2.032,"580-670
+(Good)",2-2.5x
+57,3.1,4.1,48,627,0,0,Graduate,Freelance,Urban,Male,2,1,1.323,"580-670
+(Good)",1-1.5x
+33,3.92,11.63,48,652,18,0,Graduate,Salaried,Urban,Male,0,0,2.967,"580-670
+(Good)",2.5-3x
+40,4.22,14.18,36,632,5,0,Graduate,Salaried,Urban,Male,0,0,3.36,"580-670
+(Good)",>3x
+33,5.33,12.86,24,711,4,1,Graduate,Self-Employed,Urban,Male,0,0,2.413,"670-740
+(Very Good)",2-2.5x
+30,3.81,14.8,36,671,1,0,Graduate,Business,Urban,Female,1,0,3.885,"670-740
+(Very Good)",>3x
+28,6.12,4.17,24,745,8,1,Graduate,Business,Urban,Female,0,0,0.681,"740-800
+(Excellent)",<1x
+49,4.13,9.36,36,771,13,0,Graduate,Self-Employed,Rural,Male,0,0,2.266,"740-800
+(Excellent)",2-2.5x
+35,9.14,27.55,48,766,3,3,Under-Graduate,Salaried,Urban,Male,1,0,3.014,"740-800
+(Excellent)",>3x
+52,11.14,39.2,48,687,3,2,Graduate,Salaried,Semi-Urban,Male,2,1,3.519,"670-740
+(Very Good)",>3x
+40,6.4,7.22,48,742,14,1,Post-Graduate,Salaried,Semi-Urban,Female,0,0,1.128,"740-800
+(Excellent)",1-1.5x
+37,7.92,26.14,48,802,7,0,Graduate,Self-Employed,Semi-Urban,Female,0,0,3.301,"800+
+(Exceptional)",>3x
+26,21.38,52.05,36,755,3,0,Under-Graduate,Self-Employed,Urban,Female,0,0,2.435,"740-800
+(Excellent)",2-2.5x
+56,2.97,5.61,48,868,15,1,Post-Graduate,Freelance,Rural,Female,3,0,1.889,"800+
+(Exceptional)",1.5-2x
+33,2.86,2.75,36,798,3,1,Graduate,Salaried,Semi-Urban,Male,1,0,0.962,"740-800
+(Excellent)",<1x
+46,9.1,32.11,24,857,15,1,Post-Graduate,Salaried,Rural,Male,1,0,3.529,"800+
+(Exceptional)",>3x
+42,19.29,20.26,12,520,11,2,Graduate,Salaried,Urban,Male,0,0,1.05,"500-580
+(Fair)",1-1.5x
+57,5.13,8.13,24,727,15,3,Post-Graduate,Self-Employed,Urban,Male,1,0,1.585,"670-740
+(Very Good)",1.5-2x
+44,16.91,25.62,36,694,18,0,Graduate,Business,Semi-Urban,Female,0,0,1.515,"670-740
+(Very Good)",1.5-2x
+37,6.36,22.58,36,710,7,1,Diploma,Salaried,Urban,Male,0,0,3.55,"670-740
+(Very Good)",>3x
+60,3.99,11.39,48,655,5,0,Graduate,Salaried,Semi-Urban,Female,1,0,2.855,"580-670
+(Good)",2.5-3x
+60,3.31,10.88,24,751,9,0,Graduate,Salaried,Urban,Male,1,0,3.287,"740-800
+(Excellent)",>3x
+35,8.75,12.05,24,575,4,1,Under-Graduate,Salaried,Semi-Urban,Male,0,0,1.377,"500-580
+(Fair)",1-1.5x
+52,3.47,9.32,60,752,17,0,Graduate,Business,Rural,Male,2,1,2.686,"740-800
+(Excellent)",2.5-3x
+26,6.3,15.76,24,658,9,2,Under-Graduate,Salaried,Semi-Urban,Male,3,0,2.502,"580-670
+(Good)",2.5-3x
+56,15.52,53.0,36,679,9,0,Post-Graduate,Business,Rural,Female,1,0,3.415,"670-740
+(Very Good)",>3x
+44,4.99,18.32,36,755,6,1,Under-Graduate,Self-Employed,Semi-Urban,Male,1,0,3.671,"740-800
+(Excellent)",>3x
+50,13.2,7.16,36,726,17,1,Graduate,Business,Semi-Urban,Female,3,0,0.542,"670-740
+(Very Good)",<1x
+32,2.9,8.29,12,804,0,1,Under-Graduate,Salaried,Rural,Female,2,0,2.859,"800+
+(Exceptional)",2.5-3x
+39,4.36,2.97,12,642,6,0,Under-Graduate,Business,Rural,Male,1,0,0.681,"580-670
+(Good)",<1x
+33,2.58,6.25,24,713,0,2,Graduate,Salaried,Semi-Urban,Female,2,0,2.422,"670-740
+(Very Good)",2-2.5x
+30,6.27,9.45,36,791,14,1,Graduate,Salaried,Urban,Male,0,0,1.507,"740-800
+(Excellent)",1.5-2x
+31,9.58,15.08,36,748,3,1,Graduate,Salaried,Semi-Urban,Female,1,1,1.574,"740-800
+(Excellent)",1.5-2x
+38,6.28,10.9,24,754,19,0,Diploma,Salaried,Urban,Female,0,0,1.736,"740-800
+(Excellent)",1.5-2x
+59,12.53,33.51,36,808,9,1,Graduate,Salaried,Urban,Female,0,0,2.674,"800+
+(Exceptional)",2.5-3x
+28,3.83,6.39,48,687,8,2,Post-Graduate,Salaried,Semi-Urban,Male,1,0,1.668,"670-740
+(Very Good)",1.5-2x
+34,6.87,21.05,12,670,1,1,Graduate,Freelance,Rural,Male,0,0,3.064,"580-670
+(Good)",>3x
+61,4.37,8.37,36,766,13,2,Graduate,Salaried,Rural,Male,2,0,1.915,"740-800
+(Excellent)",1.5-2x
+30,7.45,5.51,48,708,15,1,Post-Graduate,Business,Urban,Male,1,0,0.74,"670-740
+(Very Good)",<1x
+48,8.12,26.33,24,809,0,0,Diploma,Freelance,Urban,Female,1,0,3.243,"800+
+(Exceptional)",>3x
+23,8.51,12.77,36,749,1,0,Post-Graduate,Salaried,Rural,Female,0,0,1.501,"740-800
+(Excellent)",1.5-2x
+26,3.16,6.37,36,670,6,0,Under-Graduate,Self-Employed,Urban,Male,0,0,2.016,"580-670
+(Good)",2-2.5x
+50,3.52,10.2,48,747,9,1,Post-Graduate,Salaried,Semi-Urban,Male,1,0,2.898,"740-800
+(Excellent)",2.5-3x
+58,3.93,6.54,48,647,19,2,Graduate,Salaried,Urban,Male,3,1,1.664,"580-670
+(Good)",1.5-2x
+59,5.2,3.63,36,795,0,0,Graduate,Salaried,Urban,Male,0,0,0.698,"740-800
+(Excellent)",<1x
+40,6.32,11.43,48,608,12,1,Post-Graduate,Freelance,Rural,Male,0,0,1.809,"580-670
+(Good)",1.5-2x
+29,9.18,34.94,36,817,0,1,Diploma,Salaried,Urban,Male,2,0,3.806,"800+
+(Exceptional)",>3x
+22,3.61,9.91,36,745,4,1,Under-Graduate,Self-Employed,Urban,Female,0,0,2.745,"740-800
+(Excellent)",2.5-3x
+43,2.3,6.56,36,706,15,0,Graduate,Salaried,Urban,Male,2,0,2.852,"670-740
+(Very Good)",2.5-3x
+38,21.87,59.33,24,781,14,0,Graduate,Business,Rural,Male,1,0,2.713,"740-800
+(Excellent)",2.5-3x
+28,3.04,3.64,48,760,16,0,Graduate,Salaried,Rural,Female,1,0,1.197,"740-800
+(Excellent)",1-1.5x
+46,9.91,19.46,36,826,15,0,Diploma,Self-Employed,Urban,Male,0,1,1.964,"800+
+(Exceptional)",1.5-2x
+25,6.11,19.11,36,825,12,0,Under-Graduate,Self-Employed,Urban,Male,0,0,3.128,"800+
+(Exceptional)",>3x
+57,6.98,5.97,60,748,10,0,Under-Graduate,Self-Employed,Semi-Urban,Female,0,0,0.855,"740-800
+(Excellent)",<1x
+27,5.99,8.82,12,650,16,1,Graduate,Freelance,Urban,Female,2,0,1.472,"580-670
+(Good)",1-1.5x
+52,4.76,6.98,36,676,16,0,Post-Graduate,Business,Semi-Urban,Male,2,0,1.466,"670-740
+(Very Good)",1-1.5x
+40,7.93,15.96,12,714,1,3,Post-Graduate,Salaried,Urban,Male,2,0,2.013,"670-740
+(Very Good)",2-2.5x
+60,4.61,18.12,48,806,12,0,Graduate,Salaried,Urban,Female,2,1,3.931,"800+
+(Exceptional)",>3x
+48,12.08,8.89,48,683,13,0,Post-Graduate,Salaried,Semi-Urban,Female,0,0,0.736,"670-740
+(Very Good)",<1x
+31,8.44,19.54,36,690,10,0,Graduate,Salaried,Urban,Male,1,0,2.315,"670-740
+(Very Good)",2-2.5x
+47,8.6,9.7,48,867,9,0,Graduate,Salaried,Rural,Male,1,0,1.128,"800+
+(Exceptional)",1-1.5x
+40,4.43,17.27,36,711,2,2,Under-Graduate,Salaried,Urban,Male,2,0,3.898,"670-740
+(Very Good)",>3x
+60,5.21,4.67,48,669,16,0,Under-Graduate,Salaried,Urban,Male,0,0,0.896,"580-670
+(Good)",<1x
+24,2.94,5.62,36,782,14,3,Graduate,Freelance,Rural,Male,1,0,1.912,"740-800
+(Excellent)",1.5-2x
+34,4.85,14.95,36,715,8,2,Post-Graduate,Salaried,Urban,Male,2,1,3.082,"670-740
+(Very Good)",>3x
+49,3.22,9.55,60,608,9,1,Graduate,Business,Semi-Urban,Male,1,0,2.966,"580-670
+(Good)",2.5-3x
+41,13.19,26.11,24,803,7,1,Under-Graduate,Salaried,Urban,Female,0,0,1.98,"800+
+(Exceptional)",1.5-2x
+49,6.18,10.59,24,660,12,1,Under-Graduate,Self-Employed,Semi-Urban,Male,1,1,1.714,"580-670
+(Good)",1.5-2x
+29,6.65,12.58,36,723,17,0,Under-Graduate,Business,Semi-Urban,Female,0,0,1.892,"670-740
+(Very Good)",1.5-2x
+60,5.24,7.47,60,714,4,1,Under-Graduate,Salaried,Urban,Female,2,1,1.426,"670-740
+(Very Good)",1-1.5x
+22,6.76,8.24,36,738,5,0,Graduate,Salaried,Rural,Male,3,0,1.219,"670-740
+(Very Good)",1-1.5x
+24,26.33,57.68,12,544,16,0,Graduate,Salaried,Semi-Urban,Female,1,0,2.191,"500-580
+(Fair)",2-2.5x
+34,5.01,7.21,36,693,10,1,Post-Graduate,Salaried,Urban,Female,1,0,1.439,"670-740
+(Very Good)",1-1.5x
+49,4.06,6.11,36,809,19,1,Graduate,Business,Semi-Urban,Male,2,0,1.505,"800+
+(Exceptional)",1.5-2x
+46,8.24,23.06,24,821,15,2,Under-Graduate,Business,Semi-Urban,Male,0,0,2.799,"800+
+(Exceptional)",2.5-3x
+54,1.32,5.13,48,640,8,0,Graduate,Salaried,Urban,Male,0,0,3.886,"580-670
+(Good)",>3x
+59,6.23,16.28,60,793,1,2,Graduate,Salaried,Urban,Female,3,1,2.613,"740-800
+(Excellent)",2.5-3x
+27,4.8,3.69,36,659,4,0,Graduate,Salaried,Urban,Female,2,0,0.769,"580-670
+(Good)",<1x
+53,3.31,2.53,36,690,0,0,Diploma,Salaried,Urban,Male,0,0,0.764,"670-740
+(Very Good)",<1x
+42,8.14,31.18,36,694,3,0,Graduate,Self-Employed,Semi-Urban,Female,0,0,3.83,"670-740
+(Very Good)",>3x
+37,6.2,9.55,24,728,3,1,Post-Graduate,Salaried,Semi-Urban,Male,2,0,1.54,"670-740
+(Very Good)",1.5-2x
+42,2.03,1.67,48,800,2,0,Graduate,Salaried,Rural,Male,2,0,0.823,"740-800
+(Excellent)",<1x
+32,4.07,10.57,36,741,8,1,Graduate,Salaried,Urban,Female,2,0,2.597,"740-800
+(Excellent)",2.5-3x
+58,1.06,2.84,36,709,11,2,Post-Graduate,Salaried,Urban,Male,0,0,2.679,"670-740
+(Very Good)",2.5-3x
+57,7.15,19.8,48,797,9,1,Under-Graduate,Self-Employed,Semi-Urban,Female,3,0,2.769,"740-800
+(Excellent)",2.5-3x
+56,7.11,10.21,36,655,1,1,Post-Graduate,Salaried,Semi-Urban,Female,1,0,1.436,"580-670
+(Good)",1-1.5x
+40,3.73,2.06,36,713,10,2,Under-Graduate,Freelance,Semi-Urban,Male,2,0,0.552,"670-740
+(Very Good)",<1x
+41,8.3,32.18,12,799,9,1,Graduate,Business,Urban,Male,1,0,3.877,"740-800
+(Excellent)",>3x
+39,2.78,3.83,48,762,5,1,Graduate,Salaried,Urban,Female,0,0,1.378,"740-800
+(Excellent)",1-1.5x
+35,3.36,9.63,60,682,17,0,Diploma,Salaried,Urban,Female,3,0,2.866,"670-740
+(Very Good)",2.5-3x
+36,7.71,22.92,36,598,1,2,Graduate,Business,Rural,Male,0,1,2.973,"580-670
+(Good)",2.5-3x
+52,3.97,10.46,60,744,1,1,Post-Graduate,Business,Urban,Male,0,0,2.635,"740-800
+(Excellent)",2.5-3x
+22,5.78,9.22,24,593,9,0,Under-Graduate,Business,Rural,Male,2,1,1.595,"580-670
+(Good)",1.5-2x
+24,4.28,6.2,36,702,15,0,Graduate,Salaried,Semi-Urban,Female,1,0,1.449,"670-740
+(Very Good)",1-1.5x
+37,4.69,12.16,36,814,11,2,Under-Graduate,Freelance,Urban,Female,2,0,2.593,"800+
+(Exceptional)",2.5-3x
+44,4.81,16.99,36,767,0,0,Graduate,Salaried,Semi-Urban,Male,1,0,3.532,"740-800
+(Excellent)",>3x
+32,3.93,14.99,36,558,7,3,Graduate,Self-Employed,Rural,Female,1,0,3.814,"500-580
+(Fair)",>3x
+33,7.19,6.26,36,736,15,0,Graduate,Business,Rural,Male,3,0,0.871,"670-740
+(Very Good)",<1x
+31,4.12,4.29,24,694,17,2,Under-Graduate,Salaried,Urban,Female,0,0,1.041,"670-740
+(Very Good)",1-1.5x
+53,6.06,23.07,36,618,12,0,Graduate,Business,Urban,Male,2,0,3.807,"580-670
+(Good)",>3x
+37,3.87,11.91,24,746,14,1,Under-Graduate,Salaried,Urban,Male,0,0,3.078,"740-800
+(Excellent)",>3x
+29,2.39,8.58,48,680,11,2,Diploma,Freelance,Urban,Male,2,0,3.59,"670-740
+(Very Good)",>3x
+59,10.37,12.54,24,681,7,1,Post-Graduate,Salaried,Semi-Urban,Male,0,0,1.209,"670-740
+(Very Good)",1-1.5x
+33,8.1,20.71,12,729,9,1,Post-Graduate,Freelance,Rural,Female,1,0,2.557,"670-740
+(Very Good)",2.5-3x
+45,23.69,69.98,36,669,13,0,Post-Graduate,Salaried,Urban,Male,2,1,2.954,"580-670
+(Good)",2.5-3x
+49,3.21,9.25,36,727,4,0,Graduate,Self-Employed,Semi-Urban,Male,1,0,2.882,"670-740
+(Very Good)",2.5-3x
+29,5.29,10.2,48,672,17,0,Post-Graduate,Salaried,Semi-Urban,Male,2,0,1.928,"670-740
+(Very Good)",1.5-2x
+49,5.55,3.07,36,676,18,1,Post-Graduate,Salaried,Urban,Male,2,0,0.553,"670-740
+(Very Good)",<1x
+57,10.86,27.59,36,799,14,0,Diploma,Salaried,Urban,Female,2,0,2.541,"740-800
+(Excellent)",2.5-3x
+47,4.43,6.14,48,807,5,0,Diploma,Self-Employed,Semi-Urban,Female,3,1,1.386,"800+
+(Exceptional)",1-1.5x
+29,2.97,6.17,36,583,10,1,Under-Graduate,Salaried,Rural,Male,1,0,2.077,"580-670
+(Good)",2-2.5x
+49,12.38,47.68,12,779,10,1,Under-Graduate,Self-Employed,Semi-Urban,Male,0,0,3.851,"740-800
+(Excellent)",>3x
+49,4.96,9.41,36,831,19,1,Post-Graduate,Salaried,Urban,Male,0,1,1.897,"800+
+(Exceptional)",1.5-2x
+58,10.16,34.94,60,844,19,0,Post-Graduate,Freelance,Urban,Female,0,0,3.439,"800+
+(Exceptional)",>3x
+57,9.48,11.0,36,761,17,0,Under-Graduate,Salaried,Urban,Female,0,0,1.16,"740-800
+(Excellent)",1-1.5x
+48,5.89,16.81,24,635,17,3,Graduate,Salaried,Semi-Urban,Female,1,0,2.854,"580-670
+(Good)",2.5-3x
+38,5.4,21.17,24,770,9,0,Diploma,Salaried,Semi-Urban,Female,0,0,3.92,"740-800
+(Excellent)",>3x
+30,4.74,4.06,24,650,1,2,Graduate,Salaried,Urban,Female,0,0,0.857,"580-670
+(Good)",<1x
+54,5.95,3.15,36,692,8,2,Post-Graduate,Salaried,Rural,Female,0,0,0.529,"670-740
+(Very Good)",<1x
+41,10.07,20.32,36,750,13,2,Under-Graduate,Salaried,Semi-Urban,Male,2,0,2.018,"740-800
+(Excellent)",2-2.5x
+34,3.72,3.07,12,655,18,0,Diploma,Business,Semi-Urban,Male,1,0,0.825,"580-670
+(Good)",<1x
+49,6.4,19.96,60,628,9,2,Graduate,Self-Employed,Rural,Male,1,0,3.119,"580-670
+(Good)",>3x
+50,3.07,11.36,48,757,3,2,Under-Graduate,Self-Employed,Urban,Male,2,0,3.7,"740-800
+(Excellent)",>3x
+34,3.3,6.66,36,869,5,1,Post-Graduate,Salaried,Rural,Female,0,0,2.018,"800+
+(Exceptional)",2-2.5x
+56,5.89,8.28,48,819,13,0,Graduate,Self-Employed,Urban,Male,3,1,1.406,"800+
+(Exceptional)",1-1.5x
+27,1.85,3.74,12,776,3,0,Under-Graduate,Salaried,Urban,Male,1,0,2.022,"740-800
+(Excellent)",2-2.5x
+39,20.66,62.64,36,798,14,0,Post-Graduate,Business,Rural,Male,0,0,3.032,"740-800
+(Excellent)",>3x
+26,2.93,1.56,36,771,15,1,Post-Graduate,Salaried,Rural,Male,2,1,0.532,"740-800
+(Excellent)",<1x
+46,5.86,15.02,48,755,6,1,Graduate,Salaried,Semi-Urban,Male,2,0,2.563,"740-800
+(Excellent)",2.5-3x
+23,12.09,32.0,48,791,16,0,Post-Graduate,Salaried,Semi-Urban,Female,1,0,2.647,"740-800
+(Excellent)",2.5-3x
+31,3.58,9.78,24,610,18,1,Post-Graduate,Business,Semi-Urban,Female,2,0,2.732,"580-670
+(Good)",2.5-3x
+51,1.51,2.03,60,735,18,0,Graduate,Salaried,Rural,Female,0,0,1.344,"670-740
+(Very Good)",1-1.5x
+26,4.59,13.77,24,713,16,1,Graduate,Self-Employed,Urban,Male,0,0,3.0,"670-740
+(Very Good)",2.5-3x
+54,3.55,2.91,48,726,5,2,Diploma,Salaried,Rural,Male,0,0,0.82,"670-740
+(Very Good)",<1x
+22,1.53,1.83,60,683,10,0,Post-Graduate,Self-Employed,Semi-Urban,Male,0,0,1.196,"670-740
+(Very Good)",1-1.5x
+39,7.12,25.43,24,761,15,0,Under-Graduate,Business,Semi-Urban,Female,0,0,3.572,"740-800
+(Excellent)",>3x
+53,6.79,20.95,48,654,7,0,Graduate,Salaried,Urban,Male,3,0,3.085,"580-670
+(Good)",>3x
+32,11.91,6.53,12,677,10,1,Graduate,Salaried,Semi-Urban,Male,0,0,0.548,"670-740
+(Very Good)",<1x
+42,3.06,4.19,36,667,6,1,Graduate,Business,Rural,Female,1,0,1.369,"580-670
+(Good)",1-1.5x
+47,2.3,2.88,36,789,18,3,Graduate,Salaried,Semi-Urban,Male,1,0,1.252,"740-800
+(Excellent)",1-1.5x
+46,4.7,6.8,36,719,9,0,Post-Graduate,Salaried,Rural,Male,2,0,1.447,"670-740
+(Very Good)",1-1.5x
+43,5.69,7.78,60,683,8,3,Post-Graduate,Self-Employed,Urban,Male,3,0,1.367,"670-740
+(Very Good)",1-1.5x
+48,10.43,7.5,48,690,3,0,Post-Graduate,Self-Employed,Semi-Urban,Male,2,0,0.719,"670-740
+(Very Good)",<1x
+34,13.99,29.47,36,720,14,1,Graduate,Salaried,Rural,Male,3,0,2.107,"670-740
+(Very Good)",2-2.5x
+54,12.43,38.09,48,849,12,0,Post-Graduate,Business,Semi-Urban,Male,2,0,3.064,"800+
+(Exceptional)",>3x
+55,7.08,18.57,60,621,1,2,Graduate,Salaried,Semi-Urban,Female,3,0,2.623,"580-670
+(Good)",2.5-3x
+56,9.69,27.67,12,774,1,1,Graduate,Salaried,Semi-Urban,Female,2,0,2.856,"740-800
+(Excellent)",2.5-3x
+22,4.09,3.21,60,757,15,1,Diploma,Business,Rural,Male,0,0,0.785,"740-800
+(Excellent)",<1x
+42,6.64,25.43,12,649,8,2,Post-Graduate,Salaried,Rural,Female,1,0,3.83,"580-670
+(Good)",>3x
+27,2.94,10.1,48,837,12,0,Post-Graduate,Salaried,Urban,Male,1,0,3.435,"800+
+(Exceptional)",>3x
+49,6.23,20.67,24,763,2,0,Graduate,Self-Employed,Rural,Male,1,0,3.318,"740-800
+(Excellent)",>3x
+38,6.33,21.4,24,679,8,2,Diploma,Business,Urban,Male,0,0,3.381,"670-740
+(Very Good)",>3x
+26,16.86,63.47,36,571,12,0,Post-Graduate,Business,Urban,Female,1,0,3.765,"500-580
+(Fair)",>3x
+52,5.23,12.58,36,738,1,0,Under-Graduate,Freelance,Rural,Male,3,0,2.405,"670-740
+(Very Good)",2-2.5x
+26,6.33,7.6,36,716,7,1,Graduate,Business,Urban,Male,0,0,1.201,"670-740
+(Very Good)",1-1.5x
+59,6.92,18.4,12,637,8,1,Diploma,Salaried,Rural,Female,2,0,2.659,"580-670
+(Good)",2.5-3x
+24,4.57,14.17,36,636,15,0,Under-Graduate,Salaried,Urban,Male,2,0,3.101,"580-670
+(Good)",>3x
+44,3.71,11.44,60,789,1,0,Under-Graduate,Business,Urban,Female,3,1,3.084,"740-800
+(Excellent)",>3x
+58,13.08,30.41,36,563,5,0,Graduate,Salaried,Semi-Urban,Female,3,0,2.325,"500-580
+(Fair)",2-2.5x
+58,3.33,2.46,24,745,7,1,Graduate,Self-Employed,Urban,Male,2,0,0.739,"740-800
+(Excellent)",<1x
+31,2.7,4.86,36,705,4,2,Graduate,Self-Employed,Semi-Urban,Male,1,0,1.8,"670-740
+(Very Good)",1.5-2x
+31,9.02,33.58,12,759,8,3,Graduate,Salaried,Urban,Female,0,0,3.723,"740-800
+(Excellent)",>3x
+40,12.02,30.6,48,696,0,1,Under-Graduate,Business,Urban,Male,1,1,2.546,"670-740
+(Very Good)",2.5-3x
+38,4.58,10.92,48,743,8,0,Graduate,Salaried,Urban,Male,2,0,2.384,"740-800
+(Excellent)",2-2.5x
+42,4.62,6.66,36,660,9,2,Graduate,Salaried,Urban,Male,2,0,1.442,"580-670
+(Good)",1-1.5x
+35,7.11,12.72,36,716,3,1,Graduate,Freelance,Semi-Urban,Male,2,0,1.789,"670-740
+(Very Good)",1.5-2x
+30,3.92,14.24,48,759,2,0,Graduate,Salaried,Urban,Male,0,0,3.633,"740-800
+(Excellent)",>3x
+22,3.75,10.62,36,732,9,2,Graduate,Salaried,Semi-Urban,Male,1,0,2.832,"670-740
+(Very Good)",2.5-3x
+34,10.17,33.11,48,750,14,2,Under-Graduate,Salaried,Rural,Female,0,0,3.256,"740-800
+(Excellent)",>3x
+25,8.64,18.06,36,645,10,1,Post-Graduate,Business,Semi-Urban,Female,0,0,2.09,"580-670
+(Good)",2-2.5x
+22,13.18,35.66,48,672,13,1,Graduate,Business,Rural,Male,0,1,2.706,"670-740
+(Very Good)",2.5-3x
+61,2.83,3.88,36,674,5,0,Graduate,Business,Urban,Female,0,0,1.371,"670-740
+(Very Good)",1-1.5x
+53,4.44,13.18,36,697,11,0,Graduate,Self-Employed,Urban,Female,2,0,2.968,"670-740
+(Very Good)",2.5-3x
+55,7.1,14.18,60,828,12,1,Graduate,Salaried,Rural,Male,0,0,1.997,"800+
+(Exceptional)",1.5-2x
+49,3.44,7.05,36,691,16,0,Post-Graduate,Business,Semi-Urban,Male,0,0,2.049,"670-740
+(Very Good)",2-2.5x
+52,8.82,24.45,36,628,15,1,Under-Graduate,Business,Semi-Urban,Male,3,1,2.772,"580-670
+(Good)",2.5-3x
+29,12.51,47.25,24,763,2,2,Under-Graduate,Salaried,Semi-Urban,Female,1,0,3.777,"740-800
+(Excellent)",>3x
+60,4.23,3.06,36,827,1,2,Under-Graduate,Salaried,Urban,Male,0,0,0.723,"800+
+(Exceptional)",<1x
+47,6.14,20.79,36,619,10,1,Graduate,Freelance,Urban,Female,0,0,3.386,"580-670
+(Good)",>3x
+55,14.37,21.89,24,877,8,2,Diploma,Business,Semi-Urban,Male,0,0,1.523,"800+
+(Exceptional)",1.5-2x
+24,17.66,36.27,12,753,2,2,Under-Graduate,Business,Semi-Urban,Male,0,0,2.054,"740-800
+(Excellent)",2-2.5x
+33,9.39,5.42,36,802,17,1,Diploma,Business,Semi-Urban,Male,0,0,0.577,"800+
+(Exceptional)",<1x
+22,8.57,13.31,48,837,19,0,Graduate,Salaried,Rural,Male,1,0,1.553,"800+
+(Exceptional)",1.5-2x
+26,3.59,8.11,36,797,14,0,Diploma,Self-Employed,Urban,Female,0,0,2.259,"740-800
+(Excellent)",2-2.5x
+51,7.44,5.18,24,711,13,0,Under-Graduate,Salaried,Urban,Female,1,0,0.696,"670-740
+(Very Good)",<1x
+51,8.38,18.59,48,817,1,0,Under-Graduate,Salaried,Rural,Male,2,0,2.218,"800+
+(Exceptional)",2-2.5x
+38,5.29,19.81,12,740,16,0,Graduate,Self-Employed,Semi-Urban,Female,1,0,3.745,"670-740
+(Very Good)",>3x
+44,4.2,3.65,36,807,7,0,Under-Graduate,Salaried,Semi-Urban,Female,3,0,0.869,"800+
+(Exceptional)",<1x
+36,2.78,8.83,24,815,9,1,Diploma,Self-Employed,Urban,Male,1,0,3.176,"800+
+(Exceptional)",>3x
+58,2.12,4.1,24,632,17,2,Post-Graduate,Salaried,Urban,Female,1,0,1.934,"580-670
+(Good)",1.5-2x
+42,1.86,5.2,24,783,18,0,Post-Graduate,Salaried,Semi-Urban,Male,2,0,2.796,"740-800
+(Excellent)",2.5-3x
+35,8.49,11.98,36,705,7,1,Diploma,Salaried,Urban,Male,0,0,1.411,"670-740
+(Very Good)",1-1.5x
+23,6.56,6.94,12,731,7,1,Graduate,Salaried,Rural,Male,0,0,1.058,"670-740
+(Very Good)",1-1.5x
+32,4.49,4.77,36,730,2,0,Post-Graduate,Salaried,Rural,Female,2,0,1.062,"670-740
+(Very Good)",1-1.5x
+60,4.92,3.67,36,726,2,2,Post-Graduate,Salaried,Rural,Male,1,0,0.746,"670-740
+(Very Good)",<1x
+59,6.81,7.83,36,841,11,1,Diploma,Freelance,Urban,Female,2,0,1.15,"800+
+(Exceptional)",1-1.5x
+55,5.44,15.37,36,610,16,0,Graduate,Salaried,Semi-Urban,Female,3,0,2.825,"580-670
+(Good)",2.5-3x
+59,2.68,9.61,48,582,3,2,Post-Graduate,Salaried,Urban,Male,1,0,3.586,"580-670
+(Good)",>3x
+55,10.38,34.77,24,565,16,0,Post-Graduate,Self-Employed,Urban,Male,1,0,3.35,"500-580
+(Fair)",>3x
+39,7.2,20.87,36,805,13,1,Under-Graduate,Self-Employed,Urban,Male,1,0,2.899,"800+
+(Exceptional)",2.5-3x
+51,7.04,6.24,12,658,18,0,Post-Graduate,Salaried,Urban,Male,3,0,0.886,"580-670
+(Good)",<1x
+36,9.92,15.0,12,730,8,2,Diploma,Business,Rural,Male,2,0,1.512,"670-740
+(Very Good)",1.5-2x
+48,3.68,5.83,36,710,11,1,Diploma,Business,Urban,Male,3,0,1.584,"670-740
+(Very Good)",1.5-2x
+55,12.43,17.09,36,649,4,1,Graduate,Salaried,Urban,Male,0,0,1.375,"580-670
+(Good)",1-1.5x
+59,5.52,12.71,48,788,10,0,Graduate,Salaried,Rural,Male,2,1,2.303,"740-800
+(Excellent)",2-2.5x
+54,10.23,24.29,36,709,19,1,Graduate,Freelance,Urban,Male,0,0,2.374,"670-740
+(Very Good)",2-2.5x
+45,9.32,16.3,60,700,2,2,Graduate,Business,Semi-Urban,Male,0,0,1.749,"670-740
+(Very Good)",1.5-2x
+36,3.22,5.6,12,738,14,1,Post-Graduate,Self-Employed,Urban,Female,3,0,1.739,"670-740
+(Very Good)",1.5-2x
+51,8.11,27.57,12,777,13,1,Diploma,Salaried,Urban,Female,0,0,3.4,"740-800
+(Excellent)",>3x
+38,7.3,23.82,12,643,10,1,Under-Graduate,Salaried,Rural,Male,3,0,3.263,"580-670
+(Good)",>3x
+26,6.11,9.64,24,789,19,2,Graduate,Self-Employed,Urban,Male,0,0,1.578,"740-800
+(Excellent)",1.5-2x
+50,5.67,20.97,36,835,7,1,Graduate,Salaried,Semi-Urban,Male,2,0,3.698,"800+
+(Exceptional)",>3x
+25,5.7,21.86,36,605,3,2,Post-Graduate,Salaried,Urban,Male,0,0,3.835,"580-670
+(Good)",>3x
+31,9.77,16.06,12,742,11,2,Post-Graduate,Self-Employed,Urban,Male,1,0,1.644,"740-800
+(Excellent)",1.5-2x
+38,8.49,14.78,60,695,7,1,Graduate,Salaried,Urban,Male,0,0,1.741,"670-740
+(Very Good)",1.5-2x
+31,6.11,13.87,48,775,5,0,Under-Graduate,Business,Urban,Female,1,1,2.27,"740-800
+(Excellent)",2-2.5x
+38,2.45,9.3,24,622,14,1,Diploma,Business,Urban,Male,0,1,3.796,"580-670
+(Good)",>3x
+41,8.07,28.79,12,850,11,2,Graduate,Salaried,Semi-Urban,Female,2,0,3.568,"800+
+(Exceptional)",>3x
+45,9.26,7.95,24,591,15,0,Under-Graduate,Business,Semi-Urban,Male,0,0,0.859,"580-670
+(Good)",<1x
+26,23.86,44.73,24,700,15,1,Graduate,Salaried,Urban,Male,0,0,1.875,"670-740
+(Very Good)",1.5-2x
+55,11.44,27.88,24,754,19,2,Under-Graduate,Business,Urban,Male,0,0,2.437,"740-800
+(Excellent)",2-2.5x
+27,1.92,4.34,36,665,19,0,Post-Graduate,Salaried,Rural,Male,1,0,2.26,"580-670
+(Good)",2-2.5x
+23,6.29,7.41,24,652,3,1,Graduate,Salaried,Rural,Male,2,0,1.178,"580-670
+(Good)",1-1.5x
+34,17.79,62.37,36,737,10,0,Diploma,Self-Employed,Semi-Urban,Male,2,0,3.506,"670-740
+(Very Good)",>3x
+32,8.72,25.02,60,726,12,0,Post-Graduate,Salaried,Rural,Male,0,0,2.869,"670-740
+(Very Good)",2.5-3x
+44,7.31,25.09,48,720,8,2,Under-Graduate,Business,Urban,Male,1,1,3.432,"670-740
+(Very Good)",>3x
+37,10.3,36.11,60,788,3,0,Graduate,Salaried,Urban,Female,2,0,3.506,"740-800
+(Excellent)",>3x
+52,4.13,12.88,24,688,11,0,Graduate,Salaried,Semi-Urban,Female,0,0,3.119,"670-740
+(Very Good)",>3x
+32,7.99,16.28,36,745,8,2,Graduate,Salaried,Semi-Urban,Male,1,0,2.038,"740-800
+(Excellent)",2-2.5x
+37,5.16,13.61,36,679,12,0,Post-Graduate,Salaried,Semi-Urban,Male,1,0,2.638,"670-740
+(Very Good)",2.5-3x
+29,5.93,6.29,12,652,15,3,Post-Graduate,Salaried,Urban,Male,0,1,1.061,"580-670
+(Good)",1-1.5x
+25,9.86,28.18,12,697,5,3,Graduate,Self-Employed,Rural,Female,0,0,2.858,"670-740
+(Very Good)",2.5-3x
+61,3.44,3.88,48,680,9,0,Post-Graduate,Business,Rural,Male,0,0,1.128,"670-740
+(Very Good)",1-1.5x
+25,12.99,38.05,36,684,12,0,Post-Graduate,Business,Urban,Male,1,0,2.929,"670-740
+(Very Good)",2.5-3x
+46,4.66,6.07,36,813,6,1,Under-Graduate,Freelance,Semi-Urban,Male,0,0,1.303,"800+
+(Exceptional)",1-1.5x
+24,7.02,6.4,36,699,18,1,Post-Graduate,Salaried,Urban,Male,0,0,0.912,"670-740
+(Very Good)",<1x
+53,2.59,2.79,36,666,18,0,Diploma,Self-Employed,Urban,Male,0,0,1.077,"580-670
+(Good)",1-1.5x
+24,9.24,4.68,12,722,16,1,Post-Graduate,Salaried,Urban,Female,0,0,0.506,"670-740
+(Very Good)",<1x
+48,14.29,43.09,36,728,12,0,Post-Graduate,Self-Employed,Urban,Female,0,0,3.015,"670-740
+(Very Good)",>3x
+50,4.41,13.51,24,625,12,2,Graduate,Salaried,Urban,Male,3,0,3.063,"580-670
+(Good)",>3x
+53,3.08,7.09,12,696,1,0,Graduate,Freelance,Rural,Male,0,0,2.302,"670-740
+(Very Good)",2-2.5x
+40,7.09,7.55,60,692,9,0,Graduate,Self-Employed,Urban,Male,2,1,1.065,"670-740
+(Very Good)",1-1.5x
+42,14.36,11.38,36,706,12,0,Post-Graduate,Freelance,Semi-Urban,Male,1,0,0.792,"670-740
+(Very Good)",<1x
+26,2.51,1.42,48,778,8,3,Graduate,Business,Urban,Female,2,0,0.566,"740-800
+(Excellent)",<1x
+39,3.09,3.34,36,730,0,1,Graduate,Business,Urban,Male,1,0,1.081,"670-740
+(Very Good)",1-1.5x
+49,4.57,16.53,36,818,13,2,Under-Graduate,Business,Rural,Male,0,0,3.617,"800+
+(Exceptional)",>3x
+43,3.67,4.94,24,719,15,0,Graduate,Salaried,Semi-Urban,Male,2,0,1.346,"670-740
+(Very Good)",1-1.5x
+42,3.67,6.39,12,862,19,0,Graduate,Salaried,Rural,Female,1,0,1.741,"800+
+(Exceptional)",1.5-2x
+27,1.71,1.49,24,683,14,0,Graduate,Salaried,Rural,Female,2,0,0.871,"670-740
+(Very Good)",<1x
+22,8.54,10.92,48,658,0,1,Under-Graduate,Salaried,Urban,Male,1,0,1.279,"580-670
+(Good)",1-1.5x
+26,7.35,17.03,48,763,16,1,Graduate,Salaried,Urban,Male,3,0,2.317,"740-800
+(Excellent)",2-2.5x
+33,2.17,5.7,36,829,12,1,Post-Graduate,Salaried,Rural,Male,2,0,2.627,"800+
+(Exceptional)",2.5-3x
+47,14.38,19.54,36,609,14,0,Post-Graduate,Salaried,Rural,Female,3,0,1.359,"580-670
+(Good)",1-1.5x
+55,16.45,11.55,60,704,15,3,Post-Graduate,Freelance,Semi-Urban,Male,1,0,0.702,"670-740
+(Very Good)",<1x
+35,3.82,7.14,12,671,15,0,Post-Graduate,Business,Semi-Urban,Male,1,0,1.869,"670-740
+(Very Good)",1.5-2x
+47,12.08,15.94,24,731,1,3,Under-Graduate,Salaried,Semi-Urban,Male,2,0,1.32,"670-740
+(Very Good)",1-1.5x
+48,4.25,5.39,36,720,16,0,Graduate,Salaried,Urban,Female,2,0,1.268,"670-740
+(Very Good)",1-1.5x
+30,6.69,25.82,48,827,10,1,Graduate,Salaried,Semi-Urban,Male,3,0,3.859,"800+
+(Exceptional)",>3x
+47,3.63,9.65,60,711,7,0,Graduate,Salaried,Rural,Male,0,0,2.658,"670-740
+(Very Good)",2.5-3x
+43,22.65,55.47,24,829,19,1,Graduate,Business,Semi-Urban,Male,2,0,2.449,"800+
+(Exceptional)",2-2.5x
+51,5.02,9.82,48,694,2,1,Graduate,Salaried,Urban,Female,0,1,1.956,"670-740
+(Very Good)",1.5-2x
+38,6.47,12.95,48,794,11,1,Graduate,Self-Employed,Urban,Female,1,1,2.002,"740-800
+(Excellent)",2-2.5x
+47,3.97,9.5,24,738,19,1,Post-Graduate,Business,Urban,Female,0,0,2.393,"670-740
+(Very Good)",2-2.5x
+57,18.33,53.84,36,858,15,1,Post-Graduate,Business,Urban,Male,0,0,2.937,"800+
+(Exceptional)",2.5-3x
+22,18.61,55.04,36,601,13,1,Graduate,Salaried,Rural,Male,3,0,2.958,"580-670
+(Good)",2.5-3x
+29,15.96,17.57,60,626,15,2,Under-Graduate,Self-Employed,Urban,Female,0,0,1.101,"580-670
+(Good)",1-1.5x
+56,10.65,23.97,24,866,16,0,Graduate,Salaried,Urban,Male,1,0,2.251,"800+
+(Exceptional)",2-2.5x
+36,4.12,8.0,48,661,10,1,Graduate,Salaried,Urban,Female,1,0,1.942,"580-670
+(Good)",1.5-2x
+43,9.86,34.97,36,666,16,1,Post-Graduate,Salaried,Semi-Urban,Female,0,0,3.547,"580-670
+(Good)",>3x
+35,5.97,16.18,48,649,18,0,Graduate,Salaried,Semi-Urban,Male,0,0,2.71,"580-670
+(Good)",2.5-3x
+47,13.19,31.18,36,811,0,1,Graduate,Salaried,Urban,Male,1,0,2.364,"800+
+(Exceptional)",2-2.5x
+49,11.72,10.59,36,619,11,0,Graduate,Salaried,Urban,Female,0,0,0.904,"580-670
+(Good)",<1x
+44,4.06,10.64,48,721,14,0,Diploma,Self-Employed,Urban,Female,2,0,2.621,"670-740
+(Very Good)",2.5-3x
+35,10.6,9.65,48,698,17,0,Under-Graduate,Business,Semi-Urban,Male,3,0,0.91,"670-740
+(Very Good)",<1x
+45,9.03,15.17,48,802,13,0,Graduate,Salaried,Urban,Male,0,0,1.68,"800+
+(Exceptional)",1.5-2x
+23,1.14,1.14,12,674,0,1,Under-Graduate,Salaried,Rural,Male,0,0,1.0,"670-740
+(Very Good)",<1x
+47,9.7,28.35,48,753,12,1,Under-Graduate,Business,Semi-Urban,Male,1,0,2.923,"740-800
+(Excellent)",2.5-3x
+35,4.63,5.66,24,626,14,3,Post-Graduate,Salaried,Urban,Male,2,0,1.222,"580-670
+(Good)",1-1.5x
+28,3.53,6.61,36,900,6,1,Under-Graduate,Freelance,Semi-Urban,Male,0,0,1.873,"800+
+(Exceptional)",1.5-2x
+24,3.62,13.16,36,700,14,0,Graduate,Self-Employed,Urban,Female,0,0,3.635,"670-740
+(Very Good)",>3x
+44,5.53,6.72,36,720,19,2,Graduate,Salaried,Semi-Urban,Female,1,0,1.215,"670-740
+(Very Good)",1-1.5x
+39,8.0,18.22,36,852,9,2,Post-Graduate,Salaried,Urban,Female,3,0,2.278,"800+
+(Exceptional)",2-2.5x
+59,2.64,5.19,60,673,13,1,Post-Graduate,Salaried,Semi-Urban,Male,1,0,1.966,"670-740
+(Very Good)",1.5-2x
+56,6.72,3.79,24,853,5,1,Post-Graduate,Salaried,Semi-Urban,Male,1,0,0.564,"800+
+(Exceptional)",<1x
+36,8.48,27.77,48,687,13,3,Post-Graduate,Salaried,Rural,Female,3,0,3.275,"670-740
+(Very Good)",>3x
+46,18.34,13.6,36,773,11,1,Diploma,Self-Employed,Urban,Male,2,0,0.742,"740-800
+(Excellent)",<1x
+58,3.14,6.78,24,674,10,2,Diploma,Salaried,Urban,Male,2,0,2.159,"670-740
+(Very Good)",2-2.5x
+49,4.86,11.97,24,611,19,0,Under-Graduate,Salaried,Semi-Urban,Male,1,0,2.463,"580-670
+(Good)",2-2.5x
+31,7.02,18.95,60,753,18,0,Under-Graduate,Self-Employed,Rural,Female,3,0,2.699,"740-800
+(Excellent)",2.5-3x
+60,11.94,34.75,48,771,1,1,Diploma,Salaried,Rural,Female,2,0,2.91,"740-800
+(Excellent)",2.5-3x
+38,5.0,6.93,60,614,19,1,Graduate,Salaried,Urban,Male,2,0,1.386,"580-670
+(Good)",1-1.5x
+60,12.32,6.59,60,695,0,2,Graduate,Salaried,Urban,Female,2,0,0.535,"670-740
+(Very Good)",<1x
+43,1.88,5.7,24,816,7,3,Post-Graduate,Salaried,Semi-Urban,Male,2,0,3.032,"800+
+(Exceptional)",>3x
+47,2.83,6.72,36,768,13,0,Under-Graduate,Self-Employed,Urban,Male,0,0,2.375,"740-800
+(Excellent)",2-2.5x
+46,7.4,25.36,48,688,8,0,Post-Graduate,Salaried,Urban,Female,0,0,3.427,"670-740
+(Very Good)",>3x
+38,2.57,8.67,36,672,1,2,Under-Graduate,Business,Urban,Female,2,0,3.374,"670-740
+(Very Good)",>3x
+34,2.97,10.25,36,875,4,1,Graduate,Salaried,Semi-Urban,Male,0,1,3.451,"800+
+(Exceptional)",>3x
+41,4.37,9.6,36,604,7,0,Graduate,Salaried,Rural,Male,1,0,2.197,"580-670
+(Good)",2-2.5x
+46,9.53,15.89,36,715,15,1,Under-Graduate,Salaried,Rural,Female,0,0,1.667,"670-740
+(Very Good)",1.5-2x
+25,1.92,6.28,36,602,15,1,Graduate,Self-Employed,Urban,Female,2,0,3.271,"580-670
+(Good)",>3x
+31,6.65,13.83,24,825,12,2,Graduate,Salaried,Semi-Urban,Female,0,0,2.08,"800+
+(Exceptional)",2-2.5x
+24,11.15,12.73,36,719,19,1,Graduate,Salaried,Rural,Male,2,0,1.142,"670-740
+(Very Good)",1-1.5x
+39,5.34,18.65,36,734,14,0,Graduate,Self-Employed,Urban,Female,1,0,3.493,"670-740
+(Very Good)",>3x
+57,4.81,17.26,36,900,0,3,Under-Graduate,Salaried,Semi-Urban,Female,0,0,3.588,"800+
+(Exceptional)",>3x
+43,7.64,16.29,24,672,2,1,Graduate,Salaried,Urban,Male,1,1,2.132,"670-740
+(Very Good)",2-2.5x
+55,5.35,4.09,48,859,5,1,Post-Graduate,Self-Employed,Urban,Female,0,0,0.764,"800+
+(Exceptional)",<1x
+29,13.82,25.67,12,688,13,0,Graduate,Salaried,Urban,Male,0,0,1.857,"670-740
+(Very Good)",1.5-2x
+61,3.08,10.2,36,701,3,1,Under-Graduate,Self-Employed,Urban,Male,1,1,3.312,"670-740
+(Very Good)",>3x
+40,5.82,21.28,48,900,17,0,Graduate,Salaried,Semi-Urban,Male,0,0,3.656,"800+
+(Exceptional)",>3x
+58,6.79,8.23,36,707,14,0,Post-Graduate,Self-Employed,Urban,Male,3,0,1.212,"670-740
+(Very Good)",1-1.5x
+27,4.78,3.51,24,610,8,1,Under-Graduate,Self-Employed,Urban,Male,0,0,0.734,"580-670
+(Good)",<1x
+47,1.07,3.82,48,742,17,0,Graduate,Salaried,Urban,Female,2,0,3.57,"740-800
+(Excellent)",>3x
+55,5.45,10.15,36,706,2,1,Under-Graduate,Self-Employed,Rural,Male,1,0,1.862,"670-740
+(Very Good)",1.5-2x
+27,10.3,24.68,48,749,9,0,Post-Graduate,Business,Semi-Urban,Male,1,1,2.396,"740-800
+(Excellent)",2-2.5x
+58,9.57,37.21,48,709,16,1,Graduate,Salaried,Semi-Urban,Female,1,0,3.888,"670-740
+(Very Good)",>3x
+54,7.42,5.44,36,897,6,0,Graduate,Salaried,Semi-Urban,Male,2,0,0.733,"800+
+(Exceptional)",<1x
+43,3.11,8.61,36,764,14,0,Diploma,Business,Urban,Male,2,0,2.768,"740-800
+(Excellent)",2.5-3x
+42,7.61,5.78,24,634,0,0,Under-Graduate,Self-Employed,Urban,Male,2,0,0.76,"580-670
+(Good)",<1x
+27,4.25,7.71,24,729,10,3,Graduate,Salaried,Semi-Urban,Male,0,0,1.814,"670-740
+(Very Good)",1.5-2x
+27,7.42,24.59,36,656,16,2,Graduate,Business,Urban,Female,2,0,3.314,"580-670
+(Good)",>3x
+25,6.45,13.01,36,700,4,0,Under-Graduate,Salaried,Urban,Female,0,0,2.017,"670-740
+(Very Good)",2-2.5x
+51,3.34,13.33,36,647,6,2,Post-Graduate,Self-Employed,Semi-Urban,Male,0,1,3.991,"580-670
+(Good)",>3x
+32,3.51,8.62,24,888,18,1,Under-Graduate,Business,Urban,Female,1,0,2.456,"800+
+(Exceptional)",2-2.5x
+51,7.42,12.05,12,664,14,3,Graduate,Freelance,Urban,Male,1,0,1.624,"580-670
+(Good)",1.5-2x
+52,5.25,6.67,36,775,2,0,Under-Graduate,Salaried,Semi-Urban,Male,1,0,1.27,"740-800
+(Excellent)",1-1.5x
+45,3.62,6.25,24,694,14,1,Graduate,Self-Employed,Urban,Female,2,0,1.727,"670-740
+(Very Good)",1.5-2x
+30,3.45,6.22,48,627,4,0,Graduate,Salaried,Semi-Urban,Female,0,0,1.803,"580-670
+(Good)",1.5-2x
+24,5.0,3.7,12,735,11,0,Post-Graduate,Salaried,Semi-Urban,Male,0,1,0.74,"670-740
+(Very Good)",<1x
+52,15.37,27.57,36,752,19,3,Diploma,Salaried,Semi-Urban,Male,0,0,1.794,"740-800
+(Excellent)",1.5-2x
+61,4.38,9.31,60,764,4,1,Graduate,Self-Employed,Semi-Urban,Male,2,0,2.126,"740-800
+(Excellent)",2-2.5x
+58,5.95,18.03,24,510,2,0,Post-Graduate,Salaried,Urban,Male,1,1,3.03,"500-580
+(Fair)",>3x
+57,6.38,17.85,36,621,8,0,Post-Graduate,Salaried,Urban,Male,0,0,2.798,"580-670
+(Good)",2.5-3x
+45,3.04,9.06,12,796,8,1,Post-Graduate,Self-Employed,Urban,Female,2,0,2.98,"740-800
+(Excellent)",2.5-3x
+52,2.08,1.1,36,646,6,1,Under-Graduate,Self-Employed,Urban,Male,1,0,0.529,"580-670
+(Good)",<1x
+27,3.24,4.09,36,736,1,0,Under-Graduate,Business,Rural,Female,1,1,1.262,"670-740
+(Very Good)",1-1.5x
+23,6.96,19.6,36,619,15,3,Graduate,Business,Rural,Male,1,0,2.816,"580-670
+(Good)",2.5-3x
+41,6.32,13.87,36,778,8,0,Diploma,Salaried,Urban,Male,1,0,2.195,"740-800
+(Excellent)",2-2.5x
+49,9.14,4.74,48,794,12,0,Under-Graduate,Freelance,Urban,Male,2,0,0.519,"740-800
+(Excellent)",<1x
+32,6.36,21.09,24,778,18,2,Under-Graduate,Business,Urban,Male,0,0,3.316,"740-800
+(Excellent)",>3x
+25,5.62,18.01,12,802,19,0,Post-Graduate,Salaried,Urban,Female,0,0,3.205,"800+
+(Exceptional)",>3x
+36,4.18,10.11,48,845,16,0,Under-Graduate,Salaried,Urban,Male,0,0,2.419,"800+
+(Exceptional)",2-2.5x
+27,10.2,7.47,36,626,5,1,Graduate,Salaried,Semi-Urban,Male,1,1,0.732,"580-670
+(Good)",<1x
+51,3.46,11.01,48,656,3,2,Graduate,Salaried,Rural,Female,2,0,3.182,"580-670
+(Good)",>3x
+59,3.08,7.83,36,791,0,0,Under-Graduate,Self-Employed,Semi-Urban,Male,1,0,2.542,"740-800
+(Excellent)",2.5-3x
+23,8.43,27.29,48,810,17,3,Graduate,Self-Employed,Urban,Male,0,0,3.237,"800+
+(Exceptional)",>3x
+36,2.7,8.45,36,666,18,2,Graduate,Self-Employed,Urban,Male,2,0,3.13,"580-670
+(Good)",>3x
+32,25.55,84.58,48,660,8,0,Under-Graduate,Salaried,Semi-Urban,Female,2,0,3.31,"580-670
+(Good)",>3x
+29,6.29,14.55,60,667,12,1,Under-Graduate,Salaried,Rural,Female,2,0,2.313,"580-670
+(Good)",2-2.5x
+47,7.39,7.32,36,591,7,0,Graduate,Business,Rural,Female,1,0,0.991,"580-670
+(Good)",<1x
+26,3.69,10.51,24,618,12,1,Under-Graduate,Salaried,Rural,Male,2,0,2.848,"580-670
+(Good)",2.5-3x
+27,4.97,13.28,24,620,14,2,Post-Graduate,Freelance,Semi-Urban,Female,0,0,2.672,"580-670
+(Good)",2.5-3x
+47,4.64,14.37,24,696,10,3,Post-Graduate,Salaried,Semi-Urban,Male,0,0,3.097,"670-740
+(Very Good)",>3x
+25,4.33,4.74,24,741,11,0,Under-Graduate,Freelance,Urban,Male,0,0,1.095,"740-800
+(Excellent)",1-1.5x
+40,8.77,10.37,36,754,13,1,Graduate,Salaried,Semi-Urban,Female,2,0,1.182,"740-800
+(Excellent)",1-1.5x
+41,4.58,16.56,36,679,3,1,Graduate,Salaried,Urban,Male,0,1,3.616,"670-740
+(Very Good)",>3x
+54,11.05,34.53,36,681,0,0,Graduate,Salaried,Urban,Male,1,0,3.125,"670-740
+(Very Good)",>3x
+41,29.66,109.11,36,729,3,0,Post-Graduate,Self-Employed,Semi-Urban,Male,1,1,3.679,"670-740
+(Very Good)",>3x
+33,5.03,15.87,36,600,18,0,Post-Graduate,Business,Urban,Male,0,0,3.155,"580-670
+(Good)",>3x
+22,6.57,17.02,12,796,8,1,Under-Graduate,Salaried,Urban,Female,2,0,2.591,"740-800
+(Excellent)",2.5-3x
+47,7.53,21.0,12,822,9,1,Under-Graduate,Business,Urban,Female,0,1,2.789,"800+
+(Exceptional)",2.5-3x
+35,17.79,64.26,24,669,3,0,Post-Graduate,Self-Employed,Urban,Male,1,0,3.612,"580-670
+(Good)",>3x
+59,5.71,14.42,36,688,19,2,Under-Graduate,Self-Employed,Urban,Male,2,0,2.525,"670-740
+(Very Good)",2.5-3x
+58,3.65,9.9,24,819,8,2,Graduate,Business,Urban,Female,0,0,2.712,"800+
+(Exceptional)",2.5-3x
+32,2.81,2.94,24,710,12,1,Graduate,Salaried,Urban,Female,2,0,1.046,"670-740
+(Very Good)",1-1.5x
+57,5.79,12.5,36,767,11,0,Under-Graduate,Salaried,Urban,Male,2,0,2.159,"740-800
+(Excellent)",2-2.5x
+34,4.58,13.77,48,712,10,1,Graduate,Business,Rural,Female,3,1,3.007,"670-740
+(Very Good)",>3x
+24,20.04,29.02,12,844,11,0,Graduate,Business,Urban,Female,2,0,1.448,"800+
+(Exceptional)",1-1.5x
+54,17.35,20.96,36,759,17,0,Post-Graduate,Freelance,Urban,Male,0,0,1.208,"740-800
+(Excellent)",1-1.5x
+27,3.23,5.16,48,763,11,1,Graduate,Business,Semi-Urban,Male,1,0,1.598,"740-800
+(Excellent)",1.5-2x
+31,3.92,5.27,48,765,15,0,Under-Graduate,Salaried,Rural,Male,0,0,1.344,"740-800
+(Excellent)",1-1.5x
+26,6.27,7.85,60,675,4,0,Graduate,Business,Semi-Urban,Female,0,0,1.252,"670-740
+(Very Good)",1-1.5x
+44,13.88,27.58,12,682,19,0,Graduate,Salaried,Urban,Male,0,0,1.987,"670-740
+(Very Good)",1.5-2x
+31,6.21,22.84,24,781,11,0,Graduate,Freelance,Semi-Urban,Male,0,0,3.678,"740-800
+(Excellent)",>3x
+23,4.07,9.26,48,730,10,0,Post-Graduate,Salaried,Semi-Urban,Male,2,1,2.275,"670-740
+(Very Good)",2-2.5x
+34,5.79,6.7,36,625,8,3,Graduate,Self-Employed,Semi-Urban,Female,0,0,1.157,"580-670
+(Good)",1-1.5x
+61,4.12,3.17,36,869,17,0,Post-Graduate,Salaried,Semi-Urban,Male,1,0,0.769,"800+
+(Exceptional)",<1x
+23,8.61,25.28,48,798,2,0,Under-Graduate,Salaried,Rural,Female,1,0,2.936,"740-800
+(Excellent)",2.5-3x
+41,3.92,7.21,48,723,19,0,Diploma,Salaried,Rural,Female,1,0,1.839,"670-740
+(Very Good)",1.5-2x
+22,4.42,14.92,60,698,16,3,Graduate,Business,Semi-Urban,Male,3,0,3.376,"670-740
+(Very Good)",>3x
+58,12.05,33.84,60,735,13,1,Post-Graduate,Business,Urban,Male,0,0,2.808,"670-740
+(Very Good)",2.5-3x
+30,3.78,12.42,48,761,0,0,Post-Graduate,Salaried,Semi-Urban,Male,1,0,3.286,"740-800
+(Excellent)",>3x
+38,2.52,3.66,24,557,16,2,Diploma,Business,Rural,Female,1,0,1.452,"500-580
+(Fair)",1-1.5x
+30,6.35,18.56,48,888,7,0,Diploma,Self-Employed,Urban,Male,0,0,2.923,"800+
+(Exceptional)",2.5-3x
+32,4.83,6.88,12,656,4,0,Graduate,Salaried,Rural,Male,1,0,1.424,"580-670
+(Good)",1-1.5x
+36,8.15,30.86,24,719,4,0,Under-Graduate,Salaried,Urban,Male,2,0,3.787,"670-740
+(Very Good)",>3x
+45,7.26,19.8,48,722,8,0,Graduate,Business,Semi-Urban,Male,0,0,2.727,"670-740
+(Very Good)",2.5-3x
+59,5.89,9.63,24,879,2,0,Graduate,Self-Employed,Rural,Female,0,0,1.635,"800+
+(Exceptional)",1.5-2x
+56,5.78,8.34,24,712,18,1,Graduate,Salaried,Urban,Female,0,0,1.443,"670-740
+(Very Good)",1-1.5x
+51,3.86,4.51,24,847,8,0,Post-Graduate,Self-Employed,Semi-Urban,Female,2,0,1.168,"800+
+(Exceptional)",1-1.5x
+52,6.31,18.5,48,752,17,1,Post-Graduate,Salaried,Urban,Male,2,0,2.932,"740-800
+(Excellent)",2.5-3x
+26,10.18,12.88,36,643,15,0,Graduate,Salaried,Urban,Male,1,0,1.265,"580-670
+(Good)",1-1.5x
+35,3.35,8.65,48,730,0,0,Post-Graduate,Salaried,Urban,Female,1,0,2.582,"670-740
+(Very Good)",2.5-3x
+32,5.98,8.53,24,710,1,1,Graduate,Salaried,Urban,Male,2,0,1.426,"670-740
+(Very Good)",1-1.5x
+30,11.19,31.52,48,633,13,3,Post-Graduate,Self-Employed,Urban,Female,2,0,2.817,"580-670
+(Good)",2.5-3x
+55,8.13,27.25,48,748,13,0,Graduate,Business,Rural,Male,2,0,3.352,"740-800
+(Excellent)",>3x
+33,13.16,42.42,36,721,0,1,Graduate,Salaried,Rural,Male,2,0,3.223,"670-740
+(Very Good)",>3x
+56,4.27,13.51,36,764,15,0,Graduate,Salaried,Urban,Female,1,0,3.164,"740-800
+(Excellent)",>3x
+56,2.0,2.31,24,735,14,0,Graduate,Self-Employed,Semi-Urban,Female,1,0,1.155,"670-740
+(Very Good)",1-1.5x
+22,6.77,5.48,60,667,14,0,Post-Graduate,Business,Urban,Female,2,0,0.809,"580-670
+(Good)",<1x
+61,7.46,21.98,36,781,11,0,Graduate,Self-Employed,Urban,Male,3,0,2.946,"740-800
+(Excellent)",2.5-3x
+43,13.64,24.4,60,670,15,0,Post-Graduate,Business,Urban,Male,0,0,1.789,"580-670
+(Good)",1.5-2x
+50,12.24,24.64,36,472,13,0,Graduate,Salaried,Rural,Male,0,0,2.013,"300-500
+(Poor)",2-2.5x
+29,8.28,5.04,48,730,14,2,Post-Graduate,Business,Rural,Female,3,0,0.609,"670-740
+(Very Good)",<1x
+32,9.5,13.38,48,675,14,0,Under-Graduate,Salaried,Urban,Female,0,0,1.408,"670-740
+(Very Good)",1-1.5x
+58,5.35,3.31,48,750,18,1,Graduate,Salaried,Urban,Male,2,0,0.619,"740-800
+(Excellent)",<1x
+35,2.89,10.34,60,879,7,0,Post-Graduate,Salaried,Urban,Female,1,0,3.578,"800+
+(Exceptional)",>3x
+51,6.44,8.71,36,882,1,1,Graduate,Salaried,Semi-Urban,Female,0,0,1.352,"800+
+(Exceptional)",1-1.5x
+56,10.82,26.52,24,706,1,1,Post-Graduate,Business,Semi-Urban,Female,0,0,2.451,"670-740
+(Very Good)",2-2.5x
+42,8.9,5.66,48,653,9,0,Graduate,Business,Urban,Male,0,0,0.636,"580-670
+(Good)",<1x
+58,9.9,28.06,48,766,2,0,Post-Graduate,Salaried,Semi-Urban,Male,0,0,2.834,"740-800
+(Excellent)",2.5-3x
+26,4.64,7.57,36,690,16,1,Post-Graduate,Salaried,Urban,Female,1,0,1.631,"670-740
+(Very Good)",1.5-2x
+40,5.12,18.65,24,751,7,2,Diploma,Salaried,Rural,Male,2,0,3.643,"740-800
+(Excellent)",>3x
+35,8.02,28.94,36,667,3,0,Post-Graduate,Salaried,Semi-Urban,Female,3,0,3.608,"580-670
+(Good)",>3x
+47,4.32,7.08,36,740,13,0,Post-Graduate,Self-Employed,Urban,Female,1,0,1.639,"670-740
+(Very Good)",1.5-2x
+25,4.4,16.07,36,655,9,2,Graduate,Business,Semi-Urban,Female,1,0,3.652,"580-670
+(Good)",>3x
+46,7.17,28.58,36,814,0,0,Diploma,Freelance,Rural,Male,1,0,3.986,"800+
+(Exceptional)",>3x
+46,9.47,32.09,48,672,3,1,Under-Graduate,Self-Employed,Urban,Male,1,0,3.389,"670-740
+(Very Good)",>3x
+39,5.32,18.39,24,772,0,0,Graduate,Business,Urban,Male,1,0,3.457,"740-800
+(Excellent)",>3x
+61,2.99,4.1,36,618,16,0,Under-Graduate,Salaried,Rural,Male,0,0,1.371,"580-670
+(Good)",1-1.5x
+29,3.86,9.72,24,782,16,1,Graduate,Salaried,Urban,Male,0,0,2.518,"740-800
+(Excellent)",2.5-3x
+60,6.78,4.99,24,642,6,1,Under-Graduate,Salaried,Urban,Male,0,0,0.736,"580-670
+(Good)",<1x
+61,6.73,5.6,48,740,19,0,Under-Graduate,Self-Employed,Semi-Urban,Male,0,0,0.832,"670-740
+(Very Good)",<1x
+35,6.93,27.69,60,801,14,1,Graduate,Self-Employed,Rural,Male,2,0,3.996,"800+
+(Exceptional)",>3x
+53,8.2,13.47,36,704,12,2,Under-Graduate,Salaried,Semi-Urban,Male,0,0,1.643,"670-740
+(Very Good)",1.5-2x
+59,6.02,18.77,48,637,1,1,Graduate,Salaried,Rural,Male,2,0,3.118,"580-670
+(Good)",>3x
+54,7.03,23.36,48,759,18,0,Graduate,Salaried,Semi-Urban,Male,3,0,3.323,"740-800
+(Excellent)",>3x
+44,5.84,20.46,48,652,12,1,Graduate,Freelance,Urban,Female,3,1,3.503,"580-670
+(Good)",>3x
+36,11.95,47.7,24,687,10,1,Under-Graduate,Salaried,Semi-Urban,Male,3,0,3.992,"670-740
+(Very Good)",>3x
+54,14.17,19.06,60,741,14,2,Graduate,Business,Semi-Urban,Male,0,1,1.345,"740-800
+(Excellent)",1-1.5x
+46,2.94,1.89,36,828,9,1,Graduate,Business,Urban,Female,1,0,0.643,"800+
+(Exceptional)",<1x
+38,5.15,9.99,36,722,8,0,Under-Graduate,Salaried,Urban,Female,0,1,1.94,"670-740
+(Very Good)",1.5-2x
+54,6.12,5.85,12,721,8,1,Graduate,Self-Employed,Urban,Male,2,0,0.956,"670-740
+(Very Good)",<1x
+23,5.11,2.96,36,779,19,1,Graduate,Business,Semi-Urban,Female,2,0,0.579,"740-800
+(Excellent)",<1x
+35,17.59,30.98,24,724,0,0,Graduate,Salaried,Rural,Female,2,0,1.761,"670-740
+(Very Good)",1.5-2x
+61,6.86,22.25,24,770,16,1,Graduate,Freelance,Semi-Urban,Female,1,0,3.243,"740-800
+(Excellent)",>3x
+61,3.7,9.18,36,806,11,0,Post-Graduate,Salaried,Rural,Male,2,0,2.481,"800+
+(Exceptional)",2-2.5x
+60,8.58,13.68,48,693,9,1,Graduate,Salaried,Urban,Female,0,0,1.594,"670-740
+(Very Good)",1.5-2x
+27,7.06,19.7,48,457,4,0,Diploma,Business,Rural,Male,0,0,2.79,"300-500
+(Poor)",2.5-3x
+27,7.2,9.45,36,654,17,1,Under-Graduate,Business,Rural,Male,2,0,1.312,"580-670
+(Good)",1-1.5x
+24,17.75,9.77,48,816,14,2,Graduate,Freelance,Urban,Female,1,0,0.55,"800+
+(Exceptional)",<1x
+28,7.41,23.53,48,717,5,2,Graduate,Self-Employed,Rural,Male,3,0,3.175,"670-740
+(Very Good)",>3x
+29,5.0,13.42,48,692,6,2,Graduate,Freelance,Urban,Female,0,0,2.684,"670-740
+(Very Good)",2.5-3x
+36,1.86,5.89,24,813,16,3,Post-Graduate,Business,Rural,Male,2,0,3.167,"800+
+(Exceptional)",>3x
+50,5.43,3.46,48,711,5,0,Graduate,Business,Rural,Female,1,0,0.637,"670-740
+(Very Good)",<1x
+54,13.14,45.07,60,552,7,1,Graduate,Self-Employed,Semi-Urban,Male,2,0,3.43,"500-580
+(Fair)",>3x
+51,5.68,15.16,48,599,11,1,Under-Graduate,Salaried,Semi-Urban,Male,2,0,2.669,"580-670
+(Good)",2.5-3x
+60,1.56,3.86,36,753,13,2,Graduate,Freelance,Urban,Male,3,0,2.474,"740-800
+(Excellent)",2-2.5x
+48,4.45,11.95,36,714,11,0,Graduate,Salaried,Semi-Urban,Male,0,0,2.685,"670-740
+(Very Good)",2.5-3x
+57,10.88,38.36,36,836,9,3,Under-Graduate,Salaried,Urban,Male,3,1,3.526,"800+
+(Exceptional)",>3x
+50,8.32,21.25,36,661,19,1,Post-Graduate,Salaried,Semi-Urban,Female,0,0,2.554,"580-670
+(Good)",2.5-3x
+59,3.62,9.17,24,695,14,2,Graduate,Self-Employed,Semi-Urban,Male,0,0,2.533,"670-740
+(Very Good)",2.5-3x
+54,4.27,16.94,36,649,6,0,Post-Graduate,Salaried,Rural,Female,1,1,3.967,"580-670
+(Good)",>3x
+58,4.69,14.77,48,678,8,0,Graduate,Salaried,Urban,Male,2,0,3.149,"670-740
+(Very Good)",>3x
+48,4.03,8.25,48,568,9,2,Under-Graduate,Business,Rural,Male,1,0,2.047,"500-580
+(Fair)",2-2.5x
+54,1.78,5.3,24,689,9,0,Post-Graduate,Salaried,Rural,Female,2,0,2.978,"670-740
+(Very Good)",2.5-3x
+25,9.49,17.67,60,715,15,2,Under-Graduate,Self-Employed,Semi-Urban,Male,2,0,1.862,"670-740
+(Very Good)",1.5-2x
+43,12.76,16.6,36,709,6,0,Diploma,Salaried,Urban,Male,0,0,1.301,"670-740
+(Very Good)",1-1.5x
+23,2.41,6.24,48,891,4,1,Diploma,Salaried,Urban,Male,3,0,2.589,"800+
+(Exceptional)",2.5-3x
+31,12.66,47.46,48,866,2,0,Diploma,Salaried,Urban,Male,0,0,3.749,"800+
+(Exceptional)",>3x
+26,5.64,21.16,48,659,17,1,Post-Graduate,Self-Employed,Semi-Urban,Female,2,0,3.752,"580-670
+(Good)",>3x
+31,12.51,21.23,60,556,10,1,Graduate,Salaried,Semi-Urban,Female,0,0,1.697,"500-580
+(Fair)",1.5-2x
+54,6.14,14.41,36,712,14,0,Post-Graduate,Business,Rural,Male,1,1,2.347,"670-740
+(Very Good)",2-2.5x
+59,6.51,8.08,48,750,19,0,Post-Graduate,Salaried,Urban,Female,1,0,1.241,"740-800
+(Excellent)",1-1.5x
+34,7.5,29.89,24,651,4,0,Under-Graduate,Salaried,Urban,Male,0,0,3.985,"580-670
+(Good)",>3x
+52,3.73,14.67,48,655,11,1,Graduate,Salaried,Semi-Urban,Male,1,1,3.933,"580-670
+(Good)",>3x
+57,12.29,34.08,48,846,3,1,Diploma,Salaried,Rural,Female,0,0,2.773,"800+
+(Exceptional)",2.5-3x
+45,3.06,10.15,48,699,14,1,Under-Graduate,Business,Rural,Female,0,1,3.317,"670-740
+(Very Good)",>3x
+36,4.71,14.14,24,772,8,1,Diploma,Business,Rural,Female,0,0,3.002,"740-800
+(Excellent)",>3x
+50,8.22,21.18,48,645,6,1,Under-Graduate,Self-Employed,Urban,Female,1,0,2.577,"580-670
+(Good)",2.5-3x
+29,4.42,3.04,24,715,9,0,Graduate,Salaried,Semi-Urban,Female,2,0,0.688,"670-740
+(Very Good)",<1x
+26,9.57,20.02,12,693,12,0,Graduate,Salaried,Rural,Female,1,0,2.092,"670-740
+(Very Good)",2-2.5x
+50,13.7,39.21,48,665,7,0,Graduate,Salaried,Semi-Urban,Male,2,0,2.862,"580-670
+(Good)",2.5-3x
+25,11.02,31.64,36,812,11,3,Graduate,Freelance,Urban,Male,1,0,2.871,"800+
+(Exceptional)",2.5-3x
+33,1.88,3.4,48,608,18,2,Post-Graduate,Salaried,Urban,Male,2,0,1.809,"580-670
+(Good)",1.5-2x
+23,6.47,24.56,36,744,0,0,Under-Graduate,Self-Employed,Urban,Female,2,0,3.796,"740-800
+(Excellent)",>3x
+48,11.12,12.07,24,691,15,1,Under-Graduate,Salaried,Semi-Urban,Male,1,0,1.085,"670-740
+(Very Good)",1-1.5x
+52,2.72,6.12,48,753,16,2,Post-Graduate,Salaried,Urban,Male,2,0,2.25,"740-800
+(Excellent)",2-2.5x
+57,9.26,27.02,36,692,17,1,Graduate,Salaried,Urban,Male,0,0,2.918,"670-740
+(Very Good)",2.5-3x
+57,8.96,26.34,24,789,10,0,Graduate,Salaried,Urban,Female,2,1,2.94,"740-800
+(Excellent)",2.5-3x
+47,2.9,8.03,48,644,17,0,Graduate,Business,Semi-Urban,Female,2,0,2.769,"580-670
+(Good)",2.5-3x
+48,9.9,14.49,36,812,6,1,Graduate,Salaried,Urban,Male,0,0,1.464,"800+
+(Exceptional)",1-1.5x
+26,7.07,7.4,36,717,17,3,Post-Graduate,Self-Employed,Semi-Urban,Male,2,0,1.047,"670-740
+(Very Good)",1-1.5x
+41,8.86,24.15,36,613,7,1,Graduate,Salaried,Urban,Male,0,0,2.726,"580-670
+(Good)",2.5-3x
+32,3.36,8.73,48,774,5,0,Graduate,Freelance,Urban,Male,0,0,2.598,"740-800
+(Excellent)",2.5-3x
+31,6.57,7.41,48,704,6,0,Graduate,Salaried,Semi-Urban,Male,0,0,1.128,"670-740
+(Very Good)",1-1.5x
+61,2.16,6.41,48,583,9,2,Post-Graduate,Business,Urban,Female,2,0,2.968,"580-670
+(Good)",2.5-3x
+59,1.53,3.2,24,746,10,2,Post-Graduate,Business,Urban,Female,2,0,2.092,"740-800
+(Excellent)",2-2.5x
+27,6.53,18.53,48,800,12,1,Post-Graduate,Freelance,Urban,Male,2,0,2.838,"740-800
+(Excellent)",2.5-3x
+29,11.61,39.83,48,822,8,1,Graduate,Salaried,Rural,Male,0,1,3.431,"800+
+(Exceptional)",>3x
+44,6.98,7.64,48,689,6,0,Diploma,Self-Employed,Semi-Urban,Male,1,0,1.095,"670-740
+(Very Good)",1-1.5x
+47,5.78,3.28,36,731,8,2,Graduate,Salaried,Urban,Male,2,0,0.567,"670-740
+(Very Good)",<1x
+33,5.36,17.3,48,724,12,2,Post-Graduate,Salaried,Urban,Male,0,0,3.228,"670-740
+(Very Good)",>3x
+47,3.41,8.98,48,839,2,0,Under-Graduate,Salaried,Rural,Male,1,0,2.633,"800+
+(Exceptional)",2.5-3x
+34,5.25,15.48,24,655,2,1,Post-Graduate,Salaried,Semi-Urban,Male,0,0,2.949,"580-670
+(Good)",2.5-3x
+61,7.73,26.54,36,682,0,0,Diploma,Freelance,Urban,Female,0,0,3.433,"670-740
+(Very Good)",>3x
+39,4.62,15.29,48,653,19,0,Graduate,Salaried,Semi-Urban,Female,1,0,3.31,"580-670
+(Good)",>3x
+46,9.41,36.35,12,604,1,0,Post-Graduate,Self-Employed,Semi-Urban,Female,2,0,3.863,"580-670
+(Good)",>3x
+54,6.75,16.04,60,739,2,0,Graduate,Self-Employed,Semi-Urban,Male,0,0,2.376,"670-740
+(Very Good)",2-2.5x
+61,7.26,16.04,48,848,14,0,Post-Graduate,Salaried,Semi-Urban,Female,0,0,2.209,"800+
+(Exceptional)",2-2.5x
+33,10.23,19.5,36,704,5,1,Graduate,Self-Employed,Urban,Female,0,0,1.906,"670-740
+(Very Good)",1.5-2x
+57,4.37,4.54,24,649,12,1,Graduate,Salaried,Urban,Male,0,0,1.039,"580-670
+(Good)",1-1.5x
+25,8.91,22.31,24,734,0,1,Post-Graduate,Self-Employed,Rural,Male,0,0,2.504,"670-740
+(Very Good)",2.5-3x
+26,4.76,7.0,60,767,19,0,Post-Graduate,Salaried,Semi-Urban,Male,1,0,1.471,"740-800
+(Excellent)",1-1.5x
+58,7.36,27.41,24,707,18,0,Graduate,Freelance,Urban,Male,2,0,3.724,"670-740
+(Very Good)",>3x
+29,4.07,10.34,48,832,0,1,Post-Graduate,Business,Rural,Male,1,0,2.541,"800+
+(Exceptional)",2.5-3x
+49,3.47,8.94,36,655,1,0,Post-Graduate,Freelance,Rural,Male,2,0,2.576,"580-670
+(Good)",2.5-3x
+52,6.34,11.05,24,697,14,0,Graduate,Salaried,Rural,Male,2,0,1.743,"670-740
+(Very Good)",1.5-2x
+30,1.94,1.32,12,743,13,2,Post-Graduate,Salaried,Rural,Male,0,0,0.68,"740-800
+(Excellent)",<1x
+50,5.02,3.07,36,751,18,1,Under-Graduate,Salaried,Rural,Male,0,0,0.612,"740-800
+(Excellent)",<1x
+35,2.29,4.54,60,723,10,2,Post-Graduate,Salaried,Urban,Female,2,0,1.983,"670-740
+(Very Good)",1.5-2x
+61,9.58,7.63,36,617,14,1,Graduate,Salaried,Rural,Male,0,0,0.796,"580-670
+(Good)",<1x
+43,11.27,29.57,36,900,5,0,Graduate,Self-Employed,Rural,Female,0,1,2.624,"800+
+(Exceptional)",2.5-3x
+32,3.57,12.79,36,701,19,1,Post-Graduate,Salaried,Urban,Male,0,0,3.583,"670-740
+(Very Good)",>3x
+44,7.76,27.86,36,728,8,0,Diploma,Salaried,Urban,Male,1,0,3.59,"670-740
+(Very Good)",>3x
+22,10.29,28.88,36,769,4,1,Post-Graduate,Business,Rural,Male,1,0,2.807,"740-800
+(Excellent)",2.5-3x
+58,10.31,12.78,48,669,19,0,Graduate,Self-Employed,Urban,Male,3,0,1.24,"580-670
+(Good)",1-1.5x
+42,6.82,24.01,36,724,1,2,Post-Graduate,Salaried,Rural,Male,2,1,3.521,"670-740
+(Very Good)",>3x
+47,9.32,33.56,36,665,5,0,Under-Graduate,Salaried,Urban,Male,1,0,3.601,"580-670
+(Good)",>3x
+57,4.06,4.82,24,753,17,2,Graduate,Salaried,Urban,Male,1,0,1.187,"740-800
+(Excellent)",1-1.5x
+44,6.31,19.44,60,697,18,2,Diploma,Salaried,Semi-Urban,Female,0,0,3.081,"670-740
+(Very Good)",>3x
+22,4.53,6.81,24,741,8,1,Diploma,Self-Employed,Urban,Male,0,0,1.503,"740-800
+(Excellent)",1.5-2x
+61,3.86,12.77,12,636,5,1,Graduate,Salaried,Semi-Urban,Female,0,1,3.308,"580-670
+(Good)",>3x
+36,6.13,24.46,48,653,13,1,Diploma,Business,Semi-Urban,Male,0,0,3.99,"580-670
+(Good)",>3x
+42,7.39,4.47,36,610,12,2,Graduate,Business,Urban,Male,0,0,0.605,"580-670
+(Good)",<1x
+30,12.06,43.91,36,663,10,1,Under-Graduate,Self-Employed,Urban,Male,0,1,3.641,"580-670
+(Good)",>3x
+30,7.03,18.83,36,514,11,2,Graduate,Salaried,Urban,Female,0,0,2.679,"500-580
+(Fair)",2.5-3x
+31,8.82,34.46,48,695,18,1,Graduate,Salaried,Urban,Female,3,0,3.907,"670-740
+(Very Good)",>3x
+47,8.88,18.89,24,677,18,3,Post-Graduate,Business,Semi-Urban,Female,1,0,2.127,"670-740
+(Very Good)",2-2.5x
+56,30.09,104.29,48,732,18,1,Under-Graduate,Salaried,Urban,Male,3,0,3.466,"670-740
+(Very Good)",>3x
+46,2.03,1.46,36,723,12,1,Graduate,Salaried,Urban,Female,1,0,0.719,"670-740
+(Very Good)",<1x
+47,3.97,6.64,36,820,13,2,Post-Graduate,Salaried,Semi-Urban,Male,1,0,1.673,"800+
+(Exceptional)",1.5-2x
+32,14.53,10.67,36,900,17,2,Graduate,Salaried,Urban,Female,0,0,0.734,"800+
+(Exceptional)",<1x
+59,4.86,19.02,24,811,11,1,Graduate,Business,Urban,Male,0,0,3.914,"800+
+(Exceptional)",>3x
+23,10.21,34.3,48,683,3,0,Graduate,Salaried,Urban,Male,0,1,3.359,"670-740
+(Very Good)",>3x
+28,6.89,24.0,36,680,9,1,Post-Graduate,Salaried,Rural,Male,3,0,3.483,"670-740
+(Very Good)",>3x
+39,21.22,80.27,36,789,16,3,Graduate,Salaried,Rural,Male,3,0,3.783,"740-800
+(Excellent)",>3x
+48,3.08,2.46,36,585,3,2,Graduate,Self-Employed,Rural,Female,0,0,0.799,"580-670
+(Good)",<1x
+55,12.49,23.1,60,694,11,2,Graduate,Business,Urban,Female,0,0,1.849,"670-740
+(Very Good)",1.5-2x
+48,17.14,12.83,36,700,12,0,Graduate,Business,Urban,Male,1,0,0.749,"670-740
+(Very Good)",<1x
+38,3.26,4.04,60,766,3,1,Post-Graduate,Salaried,Semi-Urban,Female,0,1,1.239,"740-800
+(Excellent)",1-1.5x
+45,9.6,12.51,36,769,9,1,Diploma,Salaried,Semi-Urban,Female,1,0,1.303,"740-800
+(Excellent)",1-1.5x
+46,3.36,7.2,12,660,2,2,Graduate,Salaried,Rural,Male,0,0,2.143,"580-670
+(Good)",2-2.5x
+28,6.11,8.8,24,686,14,0,Diploma,Self-Employed,Urban,Male,1,0,1.44,"670-740
+(Very Good)",1-1.5x
+27,5.14,4.39,36,755,1,2,Under-Graduate,Self-Employed,Urban,Male,0,0,0.854,"740-800
+(Excellent)",<1x
+45,1.42,1.54,24,656,16,1,Post-Graduate,Self-Employed,Semi-Urban,Male,1,0,1.085,"580-670
+(Good)",1-1.5x
+54,7.74,7.86,12,816,5,0,Post-Graduate,Salaried,Rural,Male,0,0,1.016,"800+
+(Exceptional)",1-1.5x
+50,6.54,25.54,60,768,7,0,Under-Graduate,Self-Employed,Rural,Male,1,0,3.905,"740-800
+(Excellent)",>3x
+43,14.57,46.01,48,733,2,0,Graduate,Salaried,Semi-Urban,Male,3,0,3.158,"670-740
+(Very Good)",>3x
+47,8.66,33.66,48,751,17,1,Post-Graduate,Business,Rural,Male,0,0,3.887,"740-800
+(Excellent)",>3x
+49,23.72,48.37,24,682,0,0,Post-Graduate,Salaried,Semi-Urban,Female,2,0,2.039,"670-740
+(Very Good)",2-2.5x
+42,6.4,9.44,24,669,15,0,Post-Graduate,Self-Employed,Rural,Male,2,0,1.475,"580-670
+(Good)",1-1.5x
+28,5.63,18.55,12,686,6,2,Under-Graduate,Salaried,Rural,Male,3,0,3.295,"670-740
+(Very Good)",>3x
+38,5.37,8.82,48,759,2,0,Graduate,Salaried,Rural,Male,2,0,1.642,"740-800
+(Excellent)",1.5-2x
+41,4.61,7.14,60,736,3,0,Post-Graduate,Self-Employed,Urban,Male,2,0,1.549,"670-740
+(Very Good)",1.5-2x
+41,1.6,2.1,36,686,8,1,Post-Graduate,Salaried,Urban,Male,2,0,1.312,"670-740
+(Very Good)",1-1.5x
+43,5.26,5.02,24,779,4,1,Graduate,Business,Semi-Urban,Male,0,0,0.954,"740-800
+(Excellent)",<1x
+49,1.74,2.43,36,706,18,2,Graduate,Self-Employed,Semi-Urban,Male,1,0,1.397,"670-740
+(Very Good)",1-1.5x
+61,7.87,13.72,36,664,14,1,Post-Graduate,Self-Employed,Rural,Male,3,0,1.743,"580-670
+(Good)",1.5-2x
+28,2.85,8.15,36,740,7,2,Under-Graduate,Salaried,Urban,Male,2,0,2.86,"670-740
+(Very Good)",2.5-3x
+22,3.51,2.52,36,638,5,1,Post-Graduate,Salaried,Urban,Male,3,0,0.718,"580-670
+(Good)",<1x
+53,4.02,4.97,48,585,17,0,Under-Graduate,Self-Employed,Semi-Urban,Female,2,0,1.236,"580-670
+(Good)",1-1.5x
+34,5.31,17.69,24,719,18,0,Graduate,Salaried,Urban,Male,2,0,3.331,"670-740
+(Very Good)",>3x
+51,6.02,6.11,12,667,14,1,Graduate,Self-Employed,Urban,Male,2,0,1.015,"580-670
+(Good)",1-1.5x
+44,11.5,19.54,60,699,6,0,Graduate,Salaried,Urban,Male,2,0,1.699,"670-740
+(Very Good)",1.5-2x
+40,4.24,14.95,24,642,9,1,Graduate,Salaried,Semi-Urban,Female,1,0,3.526,"580-670
+(Good)",>3x
+53,8.0,8.34,12,816,5,1,Graduate,Salaried,Urban,Male,3,0,1.042,"800+
+(Exceptional)",1-1.5x
+51,30.89,24.39,24,667,13,0,Graduate,Salaried,Rural,Female,2,0,0.79,"580-670
+(Good)",<1x
+50,7.52,16.51,12,685,16,0,Under-Graduate,Salaried,Urban,Female,2,0,2.195,"670-740
+(Very Good)",2-2.5x
+50,5.38,8.38,36,750,8,0,Under-Graduate,Self-Employed,Rural,Male,2,0,1.558,"740-800
+(Excellent)",1.5-2x
+51,3.76,9.29,48,609,18,1,Graduate,Business,Semi-Urban,Male,0,0,2.471,"580-670
+(Good)",2-2.5x
+37,5.34,17.69,36,603,4,1,Graduate,Salaried,Urban,Male,0,0,3.313,"580-670
+(Good)",>3x
+61,3.53,3.46,36,750,6,1,Graduate,Freelance,Urban,Male,3,0,0.98,"740-800
+(Excellent)",<1x
+40,7.05,17.85,48,684,18,0,Post-Graduate,Salaried,Urban,Male,1,0,2.532,"670-740
+(Very Good)",2.5-3x
+39,6.38,14.48,36,647,19,1,Graduate,Business,Semi-Urban,Male,0,0,2.27,"580-670
+(Good)",2-2.5x
+22,1.64,1.65,48,768,6,2,Graduate,Self-Employed,Urban,Male,0,0,1.006,"740-800
+(Excellent)",1-1.5x
+35,5.93,15.92,48,655,1,0,Diploma,Self-Employed,Urban,Male,2,1,2.685,"580-670
+(Good)",2.5-3x
+23,11.44,16.68,12,698,15,1,Under-Graduate,Salaried,Semi-Urban,Female,2,0,1.458,"670-740
+(Very Good)",1-1.5x
+49,4.72,10.42,48,648,12,3,Graduate,Salaried,Urban,Male,2,0,2.208,"580-670
+(Good)",2-2.5x
+51,4.06,3.2,36,744,7,0,Graduate,Salaried,Urban,Female,1,0,0.788,"740-800
+(Excellent)",<1x
+59,2.63,5.55,60,826,5,1,Graduate,Self-Employed,Semi-Urban,Female,1,0,2.11,"800+
+(Exceptional)",2-2.5x
+25,1.97,3.1,36,571,5,0,Under-Graduate,Salaried,Rural,Female,0,1,1.574,"500-580
+(Fair)",1.5-2x
+22,9.88,33.38,60,729,8,1,Post-Graduate,Business,Urban,Female,0,0,3.379,"670-740
+(Very Good)",>3x
+29,5.38,3.76,48,788,3,0,Graduate,Salaried,Urban,Male,2,0,0.699,"740-800
+(Excellent)",<1x
+50,9.54,18.75,24,686,10,3,Under-Graduate,Business,Rural,Male,0,0,1.965,"670-740
+(Very Good)",1.5-2x
+60,15.04,31.65,36,629,4,1,Graduate,Salaried,Urban,Male,1,0,2.104,"580-670
+(Good)",2-2.5x
+24,10.43,31.68,60,753,16,2,Graduate,Salaried,Rural,Male,1,1,3.037,"740-800
+(Excellent)",>3x
+53,4.33,10.87,48,800,19,1,Graduate,Salaried,Urban,Female,1,0,2.51,"740-800
+(Excellent)",2.5-3x
+31,6.54,18.54,12,791,6,1,Post-Graduate,Salaried,Rural,Female,3,1,2.835,"740-800
+(Excellent)",2.5-3x
+31,4.15,13.36,48,749,14,1,Graduate,Salaried,Urban,Male,0,0,3.219,"740-800
+(Excellent)",>3x
+40,3.92,13.79,36,727,14,2,Graduate,Business,Rural,Male,2,0,3.518,"670-740
+(Very Good)",>3x
+55,7.37,11.78,12,648,13,3,Graduate,Salaried,Urban,Male,0,0,1.598,"580-670
+(Good)",1.5-2x
+54,3.64,8.67,36,789,12,1,Graduate,Salaried,Semi-Urban,Male,0,0,2.382,"740-800
+(Excellent)",2-2.5x
+44,1.59,5.47,24,784,10,3,Under-Graduate,Business,Urban,Male,1,0,3.44,"740-800
+(Excellent)",>3x
+49,3.52,13.95,48,628,12,1,Graduate,Salaried,Urban,Male,0,0,3.963,"580-670
+(Good)",>3x
+53,4.99,18.03,36,749,8,1,Graduate,Freelance,Semi-Urban,Female,2,0,3.613,"740-800
+(Excellent)",>3x
+28,14.95,26.91,48,772,9,1,Post-Graduate,Freelance,Semi-Urban,Male,1,0,1.8,"740-800
+(Excellent)",1.5-2x
+50,4.47,5.29,12,790,3,0,Under-Graduate,Salaried,Rural,Female,0,0,1.183,"740-800
+(Excellent)",1-1.5x
+29,8.16,18.06,36,714,16,0,Under-Graduate,Salaried,Urban,Female,0,0,2.213,"670-740
+(Very Good)",2-2.5x
+22,5.42,16.78,24,651,13,0,Post-Graduate,Salaried,Rural,Female,1,0,3.096,"580-670
+(Good)",>3x
+24,12.52,27.84,24,679,17,1,Graduate,Business,Urban,Male,2,0,2.224,"670-740
+(Very Good)",2-2.5x
+45,12.01,26.32,12,639,10,0,Under-Graduate,Self-Employed,Rural,Female,1,0,2.192,"580-670
+(Good)",2-2.5x
+44,12.15,41.72,24,715,15,1,Post-Graduate,Self-Employed,Rural,Female,1,0,3.434,"670-740
+(Very Good)",>3x
+29,2.12,3.74,36,700,0,3,Graduate,Business,Urban,Male,2,0,1.764,"670-740
+(Very Good)",1.5-2x
+58,6.79,23.83,24,891,6,0,Diploma,Salaried,Rural,Male,1,0,3.51,"800+
+(Exceptional)",>3x
+24,9.46,18.2,36,791,9,1,Graduate,Business,Rural,Female,0,0,1.924,"740-800
+(Excellent)",1.5-2x
+54,7.54,12.43,36,797,8,0,Diploma,Self-Employed,Urban,Male,1,0,1.649,"740-800
+(Excellent)",1.5-2x
+49,8.79,18.36,48,757,2,0,Under-Graduate,Self-Employed,Semi-Urban,Male,1,0,2.089,"740-800
+(Excellent)",2-2.5x
+29,6.21,19.68,60,690,13,2,Post-Graduate,Business,Urban,Male,2,0,3.169,"670-740
+(Very Good)",>3x
+55,3.84,3.61,36,697,14,1,Diploma,Self-Employed,Rural,Female,1,0,0.94,"670-740
+(Very Good)",<1x
+56,2.17,2.58,36,705,1,2,Under-Graduate,Salaried,Urban,Female,3,0,1.189,"670-740
+(Very Good)",1-1.5x
+53,4.07,15.59,24,735,13,0,Graduate,Salaried,Urban,Male,0,0,3.83,"670-740
+(Very Good)",>3x
+45,29.92,33.34,60,751,15,1,Graduate,Salaried,Urban,Male,3,0,1.114,"740-800
+(Excellent)",1-1.5x
+35,4.48,11.14,12,720,6,0,Graduate,Salaried,Semi-Urban,Female,1,0,2.487,"670-740
+(Very Good)",2-2.5x
+53,1.85,4.68,24,696,3,0,Graduate,Freelance,Rural,Female,2,0,2.53,"670-740
+(Very Good)",2.5-3x
+37,9.31,20.61,24,672,17,0,Under-Graduate,Salaried,Rural,Female,0,0,2.214,"670-740
+(Very Good)",2-2.5x
+25,10.02,27.62,36,608,4,0,Graduate,Self-Employed,Urban,Male,1,0,2.756,"580-670
+(Good)",2.5-3x
+58,12.99,16.94,24,822,5,0,Graduate,Salaried,Urban,Male,2,0,1.304,"800+
+(Exceptional)",1-1.5x
+42,7.96,19.38,48,896,6,0,Post-Graduate,Salaried,Semi-Urban,Male,2,0,2.435,"800+
+(Exceptional)",2-2.5x
+35,9.97,17.97,24,815,14,3,Under-Graduate,Business,Semi-Urban,Female,0,0,1.802,"800+
+(Exceptional)",1.5-2x
+52,18.1,50.97,36,619,0,0,Graduate,Business,Urban,Male,1,0,2.816,"580-670
+(Good)",2.5-3x
+39,3.84,3.82,24,782,3,0,Graduate,Salaried,Urban,Male,0,0,0.995,"740-800
+(Excellent)",<1x
+28,3.41,8.52,12,801,0,0,Graduate,Salaried,Semi-Urban,Male,3,0,2.499,"800+
+(Exceptional)",2-2.5x
+31,3.11,3.57,60,687,10,1,Post-Graduate,Salaried,Urban,Male,2,0,1.148,"670-740
+(Very Good)",1-1.5x
+28,5.12,7.55,24,759,17,0,Graduate,Salaried,Semi-Urban,Female,0,0,1.475,"740-800
+(Excellent)",1-1.5x
+54,14.18,17.94,48,683,13,2,Post-Graduate,Salaried,Semi-Urban,Male,2,0,1.265,"670-740
+(Very Good)",1-1.5x
+44,8.24,9.39,36,842,10,3,Graduate,Salaried,Rural,Female,3,0,1.14,"800+
+(Exceptional)",1-1.5x
+42,8.04,27.26,12,749,9,0,Graduate,Freelance,Semi-Urban,Female,1,1,3.391,"740-800
+(Excellent)",>3x
+40,2.01,3.01,60,646,16,1,Diploma,Self-Employed,Urban,Male,2,0,1.498,"580-670
+(Good)",1-1.5x
+40,3.96,14.83,24,773,3,0,Graduate,Business,Rural,Female,1,1,3.745,"740-800
+(Excellent)",>3x
+57,1.99,7.75,48,804,14,1,Graduate,Self-Employed,Semi-Urban,Female,2,0,3.894,"800+
+(Exceptional)",>3x
+50,12.12,30.29,24,735,15,1,Graduate,Salaried,Urban,Female,0,0,2.499,"670-740
+(Very Good)",2-2.5x
+39,15.54,15.55,48,758,12,0,Post-Graduate,Business,Semi-Urban,Male,0,0,1.001,"740-800
+(Excellent)",1-1.5x
+23,9.58,17.35,12,714,8,0,Post-Graduate,Salaried,Urban,Male,1,0,1.811,"670-740
+(Very Good)",1.5-2x
+22,3.32,10.93,36,629,10,1,Graduate,Business,Rural,Male,0,0,3.292,"580-670
+(Good)",>3x
+26,14.6,26.07,48,707,10,1,Graduate,Salaried,Semi-Urban,Female,2,0,1.786,"670-740
+(Very Good)",1.5-2x
+41,5.15,4.14,60,761,5,0,Graduate,Salaried,Semi-Urban,Female,0,0,0.804,"740-800
+(Excellent)",<1x
+32,2.9,7.1,60,709,0,1,Post-Graduate,Business,Urban,Female,1,0,2.448,"670-740
+(Very Good)",2-2.5x
+23,3.36,11.62,48,784,5,1,Under-Graduate,Self-Employed,Urban,Male,2,0,3.458,"740-800
+(Excellent)",>3x
+24,4.64,15.25,48,688,12,2,Post-Graduate,Business,Rural,Male,1,0,3.287,"670-740
+(Very Good)",>3x
+44,6.18,6.88,24,693,4,0,Post-Graduate,Freelance,Rural,Male,1,0,1.113,"670-740
+(Very Good)",1-1.5x
+33,5.45,15.56,24,786,14,2,Graduate,Salaried,Urban,Male,3,0,2.855,"740-800
+(Excellent)",2.5-3x
+41,2.57,3.27,24,737,17,1,Graduate,Salaried,Urban,Female,2,1,1.272,"670-740
+(Very Good)",1-1.5x
+26,12.43,15.71,36,687,19,0,Graduate,Salaried,Urban,Male,0,0,1.264,"670-740
+(Very Good)",1-1.5x
+58,5.48,19.5,36,802,13,1,Graduate,Self-Employed,Semi-Urban,Male,1,0,3.558,"800+
+(Exceptional)",>3x
+59,3.91,5.37,36,664,14,1,Graduate,Business,Semi-Urban,Male,3,0,1.373,"580-670
+(Good)",1-1.5x
+51,11.68,16.6,24,661,4,3,Post-Graduate,Salaried,Semi-Urban,Male,1,0,1.421,"580-670
+(Good)",1-1.5x
+30,2.95,1.48,48,493,3,0,Post-Graduate,Self-Employed,Semi-Urban,Male,1,0,0.502,"300-500
+(Poor)",<1x
+55,2.26,8.02,24,675,1,1,Diploma,Self-Employed,Rural,Male,0,0,3.549,"670-740
+(Very Good)",>3x
+56,12.87,42.14,36,824,6,0,Graduate,Salaried,Urban,Male,0,0,3.274,"800+
+(Exceptional)",>3x
+43,18.66,50.3,36,554,9,3,Post-Graduate,Business,Urban,Male,2,0,2.696,"500-580
+(Fair)",2.5-3x
+45,4.55,14.22,48,643,15,0,Under-Graduate,Self-Employed,Semi-Urban,Male,2,0,3.125,"580-670
+(Good)",>3x
+38,5.84,6.03,48,755,9,3,Post-Graduate,Freelance,Rural,Female,3,0,1.033,"740-800
+(Excellent)",1-1.5x
+31,3.02,6.35,36,540,17,2,Graduate,Salaried,Semi-Urban,Male,2,1,2.103,"500-580
+(Fair)",2-2.5x
+51,6.02,10.41,24,679,16,0,Graduate,Salaried,Semi-Urban,Female,0,0,1.729,"670-740
+(Very Good)",1.5-2x
+44,4.51,3.74,36,811,12,2,Graduate,Salaried,Semi-Urban,Female,0,0,0.829,"800+
+(Exceptional)",<1x
+53,5.64,12.42,12,883,0,3,Graduate,Salaried,Rural,Male,3,0,2.202,"800+
+(Exceptional)",2-2.5x
+38,7.67,28.55,36,743,0,0,Under-Graduate,Freelance,Urban,Female,0,0,3.722,"740-800
+(Excellent)",>3x
+38,3.1,1.98,36,645,14,1,Graduate,Salaried,Urban,Male,0,0,0.639,"580-670
+(Good)",<1x
+35,4.83,7.34,12,643,0,1,Graduate,Business,Rural,Female,3,1,1.52,"580-670
+(Good)",1.5-2x
+30,2.03,2.49,24,731,5,0,Under-Graduate,Salaried,Rural,Female,1,0,1.227,"670-740
+(Very Good)",1-1.5x
+61,4.85,6.47,60,742,12,0,Under-Graduate,Salaried,Urban,Female,0,0,1.334,"740-800
+(Excellent)",1-1.5x
+23,5.67,20.86,60,868,0,0,Post-Graduate,Salaried,Semi-Urban,Male,2,0,3.679,"800+
+(Exceptional)",>3x
+46,6.88,14.71,36,797,4,0,Post-Graduate,Self-Employed,Urban,Male,3,0,2.138,"740-800
+(Excellent)",2-2.5x
+60,6.93,14.78,12,726,8,1,Graduate,Self-Employed,Urban,Male,0,0,2.133,"670-740
+(Very Good)",2-2.5x
+30,10.32,32.63,24,693,16,0,Graduate,Salaried,Rural,Male,2,0,3.162,"670-740
+(Very Good)",>3x
+43,2.38,2.48,36,900,15,2,Graduate,Business,Urban,Female,1,0,1.042,"800+
+(Exceptional)",1-1.5x
+25,2.46,5.43,60,770,7,1,Post-Graduate,Salaried,Rural,Male,1,0,2.207,"740-800
+(Excellent)",2-2.5x
+47,8.24,16.52,24,666,16,0,Diploma,Salaried,Urban,Male,3,0,2.005,"580-670
+(Good)",2-2.5x
+50,1.77,4.58,48,702,14,1,Graduate,Salaried,Semi-Urban,Female,3,0,2.588,"670-740
+(Very Good)",2.5-3x
+55,6.7,26.79,24,649,0,1,Post-Graduate,Salaried,Urban,Male,0,0,3.999,"580-670
+(Good)",>3x
+44,2.96,9.45,60,527,11,3,Graduate,Freelance,Semi-Urban,Female,0,0,3.193,"500-580
+(Fair)",>3x
+58,15.42,29.18,36,745,4,0,Post-Graduate,Salaried,Semi-Urban,Female,0,0,1.892,"740-800
+(Excellent)",1.5-2x
+32,6.97,23.67,48,862,5,0,Graduate,Salaried,Semi-Urban,Male,1,1,3.396,"800+
+(Exceptional)",>3x
+27,5.26,5.77,36,589,0,2,Graduate,Salaried,Urban,Female,0,1,1.097,"580-670
+(Good)",1-1.5x
+39,12.53,7.6,36,724,0,3,Under-Graduate,Self-Employed,Urban,Male,1,0,0.607,"670-740
+(Very Good)",<1x
+42,3.17,3.85,24,663,9,1,Post-Graduate,Salaried,Urban,Male,0,0,1.215,"580-670
+(Good)",1-1.5x
+57,3.55,6.0,24,761,9,2,Post-Graduate,Self-Employed,Urban,Female,1,0,1.69,"740-800
+(Excellent)",1.5-2x
+59,2.81,6.43,60,706,2,0,Graduate,Salaried,Semi-Urban,Female,0,0,2.288,"670-740
+(Very Good)",2-2.5x
+55,3.57,9.47,60,611,16,1,Graduate,Salaried,Semi-Urban,Male,2,1,2.653,"580-670
+(Good)",2.5-3x
+38,6.22,22.93,48,641,18,0,Graduate,Business,Semi-Urban,Male,0,0,3.686,"580-670
+(Good)",>3x
+58,8.07,18.44,36,653,10,0,Under-Graduate,Salaried,Semi-Urban,Male,0,0,2.285,"580-670
+(Good)",2-2.5x
+46,10.68,24.08,48,827,17,2,Diploma,Business,Urban,Male,2,0,2.255,"800+
+(Exceptional)",2-2.5x
+59,2.01,1.36,12,823,1,0,Graduate,Salaried,Urban,Male,2,0,0.677,"800+
+(Exceptional)",<1x
+33,5.41,3.37,36,695,8,1,Graduate,Business,Urban,Male,0,0,0.623,"670-740
+(Very Good)",<1x
+44,3.09,7.51,36,818,16,3,Under-Graduate,Salaried,Rural,Male,0,0,2.43,"800+
+(Exceptional)",2-2.5x
+43,5.3,10.78,36,706,13,0,Graduate,Self-Employed,Semi-Urban,Male,2,0,2.034,"670-740
+(Very Good)",2-2.5x
+42,24.34,83.66,36,693,3,3,Post-Graduate,Salaried,Urban,Male,1,0,3.437,"670-740
+(Very Good)",>3x
+48,7.15,7.6,24,724,16,3,Graduate,Salaried,Urban,Female,2,0,1.063,"670-740
+(Very Good)",1-1.5x
+52,10.29,6.04,36,742,16,1,Under-Graduate,Salaried,Rural,Female,1,0,0.587,"740-800
+(Excellent)",<1x
+27,19.46,40.31,48,675,11,0,Post-Graduate,Salaried,Semi-Urban,Male,0,0,2.071,"670-740
+(Very Good)",2-2.5x
+48,11.8,15.71,36,721,19,0,Under-Graduate,Salaried,Semi-Urban,Male,1,0,1.331,"670-740
+(Very Good)",1-1.5x
+61,4.59,3.09,24,782,17,1,Under-Graduate,Salaried,Urban,Male,2,0,0.673,"740-800
+(Excellent)",<1x
+55,2.79,8.47,24,730,2,0,Graduate,Self-Employed,Urban,Male,3,1,3.036,"670-740
+(Very Good)",>3x
+33,5.89,5.25,24,723,10,0,Under-Graduate,Business,Rural,Male,0,0,0.891,"670-740
+(Very Good)",<1x
+28,4.27,11.23,24,759,17,3,Under-Graduate,Self-Employed,Semi-Urban,Female,1,1,2.63,"740-800
+(Excellent)",2.5-3x
+31,2.4,3.56,36,773,3,0,Graduate,Self-Employed,Urban,Male,0,0,1.483,"740-800
+(Excellent)",1-1.5x
+38,6.93,7.67,36,714,16,1,Graduate,Salaried,Rural,Female,1,0,1.107,"670-740
+(Very Good)",1-1.5x
+47,7.04,12.88,48,682,17,0,Graduate,Salaried,Semi-Urban,Male,2,0,1.83,"670-740
+(Very Good)",1.5-2x
+42,17.34,57.31,36,735,4,1,Post-Graduate,Salaried,Urban,Female,1,1,3.305,"670-740
+(Very Good)",>3x
+49,4.83,9.04,48,592,13,2,Graduate,Business,Urban,Female,3,0,1.872,"580-670
+(Good)",1.5-2x
+23,7.1,22.21,24,703,9,0,Post-Graduate,Salaried,Urban,Male,1,0,3.128,"670-740
+(Very Good)",>3x
+22,4.02,3.78,36,522,14,0,Graduate,Salaried,Urban,Male,3,1,0.94,"500-580
+(Fair)",<1x
+57,10.13,32.46,48,585,0,1,Under-Graduate,Self-Employed,Semi-Urban,Male,2,0,3.204,"580-670
+(Good)",>3x
+47,5.57,7.4,24,573,15,1,Graduate,Salaried,Urban,Male,0,0,1.329,"500-580
+(Fair)",1-1.5x
+50,2.97,8.53,24,803,10,1,Graduate,Business,Rural,Female,0,0,2.872,"800+
+(Exceptional)",2.5-3x
+42,5.95,14.76,48,721,19,0,Post-Graduate,Business,Rural,Male,1,1,2.481,"670-740
+(Very Good)",2-2.5x
+32,7.58,28.44,36,619,5,0,Post-Graduate,Salaried,Urban,Male,0,0,3.752,"580-670
+(Good)",>3x
+61,6.99,12.97,48,759,15,3,Graduate,Salaried,Semi-Urban,Male,1,1,1.856,"740-800
+(Excellent)",1.5-2x
+32,11.24,8.22,12,799,1,2,Graduate,Salaried,Rural,Male,1,0,0.731,"740-800
+(Excellent)",<1x
